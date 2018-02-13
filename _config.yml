@@ -110,7 +110,3 @@ jsonContent:
       excerpt: false
       categories: false
       tags: true
-
-# 
-#plugins:
-#- hexo-generator-feed
