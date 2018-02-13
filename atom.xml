@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-12T08:36:10.039Z</updated>
+  <updated>2018-02-13T01:39:20.323Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客更新汇总</title>
+    <link href="http://yoursite.com/2018/02/13/blogUpdates/"/>
+    <id>http://yoursite.com/2018/02/13/blogUpdates/</id>
+    <published>2018-02-13T01:00:49.000Z</published>
+    <updated>2018-02-13T01:39:20.323Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="v0-1-0"><a href="#v0-1-0" class="headerlink" title="v0.1.0"></a>v0.1.0</h2><ul><li>2018-02-11<ul><li><a href="https://hexo.io/zh-cn" target="_blank" rel="noopener">Hexo</a> Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">Yilia</a></li></ul></li><li>2018-02-12<ul><li><a href="https://github.com/imsun/gitment" target="_blank" rel="noopener">Gitment</a> 评论</li><li><a href="http://busuanzi.ibruce.info/" target="_blank" rel="noopener">不蒜子</a> 访问量统计</li></ul></li></ul><h2 id="v0-1-1"><a href="#v0-1-1" class="headerlink" title="v0.1.1"></a>v0.1.1</h2><ul><li>2018-02-13<ul><li><a href="https://tongji.baidu.com/web/welcome/login" target="_blank" rel="noopener">百度统计</a></li><li><a href="https://github.com/imsun/gitment" target="_blank" rel="noopener">Gitment</a> 更新为 <a href="http://laibili.com.cn/login_form" target="_blank" rel="noopener">来必力</a></li></ul></li></ul><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;v0-1-0&quot;&gt;&lt;a href=&quot;#v0-1-0&quot; class=&quot;headerlink&quot; title=&quot;v0.1.0&quot;&gt;&lt;/a&gt;v0.1.0&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;2018-02-11&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://hexo.io/zh-cn&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt; Theme &lt;a href=&quot;https://github.com/litten/hexo-theme-yilia&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Yilia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2018-02-12&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/imsun/gitment&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Gitment&lt;/a&gt; 评论&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://busuanzi.ibruce.info/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;不蒜子&lt;/a&gt; 访问量统计&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;v0-1-1&quot;&gt;&lt;a href=&quot;#v0-1-1&quot; class=&quot;headerlink&quot; title=&quot;v0.1.1&quot;&gt;&lt;/a&gt;v0.1.1&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;2018-02-13&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://tongji.baidu.com/web/welcome/login&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;百度统计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/imsun/gitment&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Gitment&lt;/a&gt; 更新为 &lt;a href=&quot;http://laibili.com.cn/login_form&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;来必力&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Work" scheme="http://yoursite.com/categories/work/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo GitHub 简明版博客搭建</title>

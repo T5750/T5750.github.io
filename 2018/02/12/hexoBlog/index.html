@@ -286,9 +286,9 @@ var _hmt = _hmt || [];
 	</div>
 
 
-	  
-		<i class="icon-smile" title="阅读次数"></i> <span style="font-size:14px;" title="阅读次数"><span id="busuanzi_value_page_pv"></span>人阅读</span>
-	  
+      
+        <i class="icon-smile" title="阅读次数"></i> <span style="font-size:14px;" title="阅读次数"><span id="busuanzi_value_page_pv"></span>人阅读</span>
+      
       
 
       
@@ -351,6 +351,15 @@ var _hmt = _hmt || [];
   
 <nav id="article-nav">
   
+    <a href="/2018/02/13/blogUpdates/" id="article-nav-newer" class="article-nav-link-wrap">
+      <i class="icon-circle-left"></i>
+      <div class="article-nav-title">
+        
+          博客更新汇总
+        
+      </div>
+    </a>
+  
   
     <a href="/2018/02/12/websites/" id="article-nav-older" class="article-nav-link-wrap">
       <div class="article-nav-title">Websites</div>
@@ -379,30 +388,33 @@ var _hmt = _hmt || [];
 
 
   
-  
-  
 
   
 
   
 
   
-  <div id="gitment-ctn"></div> 
-<link rel="stylesheet" href="//imsun.github.io/gitment/style/default.css">
-<script src="//imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: "http://yoursite.com/2018/02/12/hexoBlog/",
-  owner: 'T5750',
-  repo: 'T5750.github.io',
-  oauth: {
-    client_id: '507c9ddcace754f38fce',
-    client_secret: '3dcc155017a0b5cbd02d582ec57e87cf6160e4a4',
-  },
-})
-gitment.render('gitment-ctn')
-</script>
+
   
+<!-- 来必力City版安装代码 -->
+<div id="lv-container" data-id="city" data-uid="MTAyMC8zNDEyNS8xMDY2Mg==">
+  <script type="text/javascript">
+    var refer = "<?=get_permalink($id);?>".replace("http://","");
+    (function(d, s) {
+      var j, e = d.getElementsByTagName(s)[0];
+
+      if (typeof LivereTower === 'function') { return; }
+
+      j = d.createElement(s);
+      j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+      j.async = true;
+
+      e.parentNode.insertBefore(j, e);
+    })(document, 'script');
+  </script>
+  <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
 
 
           </div>
