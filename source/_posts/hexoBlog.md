@@ -10,6 +10,20 @@ tags: [Hexo, Git]
 安装[Git](http://git-scm.com/download/)(必须) 一路默认安装即可
 [Github](http://github.com/)账号(必须)
 
+### 1.1 Ubuntu
+```
+sudo ln -s /opt/node-v8.5.0-linux-x64/bin/node /usr/local/bin/node
+sudo ln -s /opt/node-v8.5.0-linux-x64/bin/npm /usr/local/bin/npm
+node -v
+npm -v
+```
+
+### 1.2 设置淘宝镜像
+```
+sudo npm config set registry https://registry.npm.taobao.org //设置淘宝镜像
+source ~/.bashrc //使修改立即生效
+```
+
 ## 2. Hexo
 右键打开`git bash`安装hexo
 ```
@@ -103,8 +117,8 @@ git pull
 ```
 
 #### 4.2.5 Gitment评论
-1. 注册 [OAuth Application](https://github.com/settings/applications/new)
-2. 引入 Gitment
+1.注册 [OAuth Application](https://github.com/settings/applications/new)
+2.引入 Gitment
 ```
 gitment_owner: T5750 #你的 GitHub ID
 gitment_repo: 'T5750.github.io' #存储评论的 repo
@@ -112,7 +126,7 @@ gitment_oauth:
   client_id: #client ID
   client_secret: #client secret
 ```
-3. 初始化评论
+3.初始化评论
 
 #### 4.2.6 不蒜子访问量统计
 `hexo/themes/yilia/layout/_partial/footer.ejs`引入`busuanzi.js`
