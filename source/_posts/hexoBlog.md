@@ -4,6 +4,7 @@ subtitle: hexoBlog
 categories:
 - Work
 tags: [Hexo, Git]
+date: 2018-02-12 09:19:28
 ---
 ## 1. 环境配置
 [Node.js](https://nodejs.org/en/)(必须) 一路默认安装即可
@@ -24,6 +25,8 @@ sudo npm config set registry https://registry.npm.taobao.org //设置淘宝镜�
 source ~/.bashrc //使修改立即生效
 ```
 
+<!-- more -->
+
 ## 2. Hexo
 右键打开`git bash`安装hexo
 ```
@@ -41,8 +44,6 @@ hexo s //hexo server
 浏览器中输入 http://localhost:4000/
 此时，会有一篇文章`hello world`，对应的文件为 `hexo/source/_posts/hello-world.md`
 文章用[markdown](https://www.zybuluo.com/mdeditor)语法写
-
-<!-- more -->
 
 ### 2.3 新建文章
 ```

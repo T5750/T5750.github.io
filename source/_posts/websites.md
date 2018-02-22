@@ -5,6 +5,7 @@ categories:
 - Work
 tags:
 - Websites
+date: 2018-02-12 12:57:34
 ---
 ## 1. Tutorials
 - <a href="http://www.yiibai.com/" target="_blank">易百教程</a> - 专注于IT教程和实例
@@ -20,6 +21,8 @@ tags:
 - <a href="https://git-scm.com/doc" target="_blank">Git</a> <a href="https://git-scm.com/book/zh/v2" target="_blank">简体中文</a> - distributed-even-if-your-workflow-isnt. Reference, Book, Videos, External Links.
 - <a href="http://wowubuntu.com/markdown/" target="_blank">Markdown 语法说明</a> (<a href="http://wowubuntu.com/markdown/basic.html" target="_blank">快速入门</a>)
 
+<!-- more -->
+
 ### 1.1 Videos
 - [Mars Android](http://www.marschen.com/)
 - [慕课网](http://www.imooc.com/) - 提供了丰富的移动端开发、php开发、web前端、android开发以及html5等视频教程资源公开课
@@ -27,8 +30,6 @@ tags:
 ### 1.2 Books
 - <a href="http://bestcbooks.com/" target="_blank">计算机书籍控</a>
 - <a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank">免费的计算机编程类中文书籍</a>
-
-<!-- more -->
 
 ## 2. Tools
 - [Compile and Execute Programs Online](http://compileonline.com/)  - You can compile and run, execute your source code related to Java, JSP, Cold Fusion, C, C++, Pascal, Fortran, PHP, Perl, Ruby and Python programs onnline using your browsers, iPhone, iPad or any other online device like smart TV using this virtual Linux / Unix  Server.
@@ -52,4 +53,4 @@ tags:
 - [HTML色彩代码](http://html-color-codes.info/chinese/)
 - [在线API文档](http://tool.oschina.net/apidocs) - 提供在线 Java API文档, 在线 PHP API文档, 在线 Node.js API文档等其他在线工具
 
-![doge](http://img.blog.csdn.net/20160825131133859)
+![doge](http://www.wailian.work/images/2018/02/22/doge-60-min.png)
