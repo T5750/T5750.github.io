@@ -30,13 +30,17 @@ rss: "/atom.xml"
 
 ## 5. 添加 Sitemap
 ```
-npm install hexo-generator-sitemap
+npm install hexo-generator-sitemap --save
+npm install hexo-generator-baidu-sitemap --save-dev
 ```
 `hexo/_config.yml`配置
 ```
 sitemap:
     path: sitemap.xml
+baidusitemap:
+    path: baidusitemap.xml
 ```
 
 ## 6. References
 - [Hexo 主题优化](http://cighao.com/2016/02/14/optimization-of-hexo/)
+- [动动手指，不限于NexT主题的Hexo优化（SEO篇）](http://www.arao.me/2015/hexo-next-theme-optimize-seo/)

@@ -5,10 +5,11 @@
 # Site
 title: 兰染的博客
 subtitle: 自强不息 厚德载物
-description: java spring springboot hexo
+description: 网名：兰染。热衷技术，热爱生活，常有好文章苦于无处珍藏，又有日常琐碎不堪记忆无处安放，遂筑博客一枚，以作日记之用。
 author: 兰染
 language: zh-Hans
 timezone:
+keywords: "后端,java,spring,springboot,hexo,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -80,6 +81,10 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+# plugins:
+#  - hexo-generator-feed
+#  - hexo-generator-baidu-sitemap
+#  - hexo-generator-sitemap
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 #theme: hexo-theme-next
@@ -94,6 +99,14 @@ deploy:
 
 sitemap:
     path: sitemap.xml
+baidusitemap:
+    path: baidusitemap.xml
+
+# Feed Atom
+feed:
+    type: atom
+    path: atom.xml
+    limit: 100
 
 # hexo-theme-yilia
 jsonContent:
