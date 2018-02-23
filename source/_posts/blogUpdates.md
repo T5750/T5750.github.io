@@ -21,3 +21,9 @@ tags: [Hexo]
     - rss
 
 <!-- more -->
+
+## v0.2.0
+- 2018-02-22
+    - git branch hexo
+- 2018-02-23
+    - sitemap

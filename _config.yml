@@ -92,6 +92,9 @@ deploy:
   repo: git@github.com:T5750/T5750.github.io.git
   branch: master
 
+sitemap:
+    path: sitemap.xml
+
 # hexo-theme-yilia
 jsonContent:
     meta: false
