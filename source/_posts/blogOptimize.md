@@ -29,18 +29,38 @@ rss: "/atom.xml"
 ```
 
 ## 5. 添加 Sitemap
+### 5.1 Sitemap
 ```
 npm install hexo-generator-sitemap --save
-npm install hexo-generator-baidu-sitemap --save-dev
 ```
 `hexo/_config.yml`配置
 ```
 sitemap:
     path: sitemap.xml
+```
+
+### 5.2 baidusitemap
+```
+npm install hexo-generator-baidu-sitemap --save
+```
+
+- [链接提交](https://ziyuan.baidu.com/linksubmit/url)
+- [添加网站](http://zhanzhang.baidu.com/site/siteadd)
+	1. 输入网站
+	2. 站点属性
+	3. 验证网站，选择文件验证，下载`baidu_verify_KoktB8hGH2.html`到`source`目录下
+
+`hexo/_config.yml`配置
+```
 baidusitemap:
     path: baidusitemap.xml
+
+skip_render:
+  - README.md
+  - baidu_verify_KoktB8hGH2.html
 ```
 
 ## 6. References
 - [Hexo 主题优化](http://cighao.com/2016/02/14/optimization-of-hexo/)
 - [动动手指，不限于NexT主题的Hexo优化（SEO篇）](http://www.arao.me/2015/hexo-next-theme-optimize-seo/)
+- [Hexo博客配置优化](http://www.heqiangfly.com/2016/01/11/blog-hexo-optimize/)
