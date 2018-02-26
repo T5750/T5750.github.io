@@ -19,7 +19,7 @@ tags: [Hexo]
     - [百度统计](https://tongji.baidu.com/web/welcome/login)
     - [Gitment](https://github.com/imsun/gitment) 更新为 [来必力](http://laibili.com.cn/login_form)
     - 版权声明
-    - rss
+    - [rss](/atom.xml)
 
 <!-- more -->
 
@@ -30,8 +30,8 @@ tags: [Hexo]
 
 ### v0.2.1
 - 2018-02-23
-    - sitemap
-    - baidusitemap
+    - [sitemap](/sitemap.xml)
+    - [baidusitemap](/baidusitemap.xml)
 - 2018-02-25
-    - 留言板
+    - [留言板](/comments/)
 
