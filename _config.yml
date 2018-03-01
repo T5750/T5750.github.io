@@ -29,8 +29,10 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
   - README.md
+  - googleb37eb5fa38914e1c.html
   - baidu_verify_KoktB8hGH2.html
   - baidu_verify_b6B4X0s99Z.html
+  - CNAME
 
 # Writing
 new_post_name: :title.md # File name of new posts
