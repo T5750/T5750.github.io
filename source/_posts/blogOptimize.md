@@ -38,7 +38,8 @@ npm install hexo-generator-sitemap --save
 sitemap:
     path: sitemap.xml
 ```
-向[Google站长工具](https://www.google.com/webmasters/tools/home?hl=zh-CN)提交sitemap。
+- 向[Google站长工具](https://www.google.com/webmasters/tools/home?hl=zh-CN)提交sitemap。
+- 通过HTML文件方式验证通过后，在站点里选择 抓取->站点地图里 添加/测试站点地图。
 
 ### 5.2 baidusitemap
 ```
