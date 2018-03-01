@@ -29,7 +29,7 @@ rss: "/atom.xml"
 ```
 
 ## 5. 添加 Sitemap
-### 5.1 Sitemap
+### 5.1 Google Sitemap
 ```
 npm install hexo-generator-sitemap --save
 ```
@@ -37,11 +37,14 @@ npm install hexo-generator-sitemap --save
 ```
 sitemap:
     path: sitemap.xml
+
+skip_render:
+  - googleb37eb5fa38914e1c.html
 ```
 - 向[Google站长工具](https://www.google.com/webmasters/tools/home?hl=zh-CN)提交sitemap。
 - 通过HTML文件方式验证通过后，在站点里选择 抓取->站点地图里 添加/测试站点地图。
 
-### 5.2 baidusitemap
+### 5.2 Baidu Sitemap
 ```
 npm install hexo-generator-baidu-sitemap --save
 ```
@@ -58,7 +61,6 @@ baidusitemap:
     path: baidusitemap.xml
 
 skip_render:
-  - README.md
   - baidu_verify_KoktB8hGH2.html
 ```
 
