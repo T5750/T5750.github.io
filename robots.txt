@@ -4,7 +4,6 @@ Allow: /
 Allow: /archives/
 Allow: /comments/
 
-Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
