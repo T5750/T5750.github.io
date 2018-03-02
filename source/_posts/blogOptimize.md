@@ -72,6 +72,12 @@ skip_render:
 - 下载`BingSiteAuth.xml`，验证
 - 搜索`site:t5750.github.io`
 
+### 5.4 360 Sitemap
+[提交您的网站](http://info.so.com/site_submit.html)
+
+### 5.5 Sogou Sitemap
+[网站收录](https://fankui.sogou.com/index.php/web/web/index)
+
 ## 6. 添加404公益页面
 腾讯404公益页面`source/404.html`
 ```
