@@ -13,7 +13,8 @@ keywords: "后端,java,spring,springboot,hexo,js,jquery,javascript,html5,开发�
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://T5750.coding.me
+url: https://T5750.github.io
+#url: https://T5750.coding.me
 root: /
 #permalink: :year/:month/:day/:title/
 permalink: :year/:month/:day/:subtitle/
@@ -32,6 +33,7 @@ skip_render:
   - googleb37eb5fa38914e1c.html
   - baidu_verify_KoktB8hGH2.html
   - baidu_verify_b6B4X0s99Z.html
+  - BingSiteAuth.xml
   - CNAME
 
 # Writing
@@ -101,9 +103,9 @@ deploy:
 - type: git
   repo: git@github.com:T5750/T5750.github.io.git
   branch: master
-- type: git
-  repo: git@git.coding.net:T5750/T5750.coding.me.git
-  branch: master
+#- type: git
+#  repo: git@git.coding.net:T5750/T5750.coding.me.git
+#  branch: master
 
 sitemap:
     path: sitemap.xml

@@ -51,7 +51,7 @@ npm install hexo-generator-baidu-sitemap --save
 ```
 
 - [链接提交](https://ziyuan.baidu.com/linksubmit/url)
-- [添加网站](http://zhanzhang.baidu.com/site/siteadd)
+- [添加网站](https://ziyuan.baidu.com/site/siteadd)
 	1. 输入网站
 	2. 站点属性
 	3. 验证网站，选择文件验证，下载`baidu_verify_KoktB8hGH2.html`到`source`目录下
@@ -64,6 +64,13 @@ baidusitemap:
 skip_render:
   - baidu_verify_KoktB8hGH2.html
 ```
+
+### 5.3 Bing Sitemap
+[提交网址到必应](https://www.bing.com/toolbox/submit-site-url)
+- 输入主页的 URL，图片中的文字，提交
+- 添加 sitemap
+- 下载`BingSiteAuth.xml`，验证
+- 搜索`site:t5750.github.io`
 
 ## 6. 添加404公益页面
 腾讯404公益页面`source/404.html`

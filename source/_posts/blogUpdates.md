@@ -30,8 +30,8 @@ tags: [Hexo]
 
 ### v0.2.1
 - 2018-02-23
-    - [sitemap](/sitemap.xml)
-    - [baidusitemap](/baidusitemap.xml)
+    - Google Sitemap [Google站长工具](https://www.google.com/webmasters/tools/home?hl=zh-CN)
+    - Baidu Sitemap [链接提交](https://ziyuan.baidu.com/linksubmit/url)
 - 2018-02-25
     - [留言板](/comments/)
 
@@ -43,3 +43,4 @@ tags: [Hexo]
     - 添加腾讯空间 [404公益页面](/404.html)
 - 2018-03-02
     - [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
+    - Bing Sitemap [提交网址到必应](https://www.bing.com/toolbox/submit-site-url)
