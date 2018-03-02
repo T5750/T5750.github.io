@@ -5,18 +5,18 @@
   
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <link rel="dns-prefetch" href="https://T5750.coding.me">
+  <link rel="dns-prefetch" href="https://T5750.github.io">
   <title>Hexo GitHub 简明版博客优化 | 兰染的博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="1. 环境配置基于 hexo-theme-yilia 2. 百度统计 注册并登录 百度统计 代码管理-代码获取-复制代码到hexo/themes/yilia/_config.yml中的baidu_analytics  3. 来必力 注册并登录 来必力 安装来必力-代码管理-复制代码到hexo/themes/yilia/layout/_partial/article.ejs">
 <meta name="keywords" content="Hexo,Git">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hexo GitHub 简明版博客优化">
-<meta property="og:url" content="https://T5750.coding.me/2018/02/23/blogOptimize/index.html">
+<meta property="og:url" content="https://T5750.github.io/2018/02/23/blogOptimize/index.html">
 <meta property="og:site_name" content="兰染的博客">
 <meta property="og:description" content="1. 环境配置基于 hexo-theme-yilia 2. 百度统计 注册并登录 百度统计 代码管理-代码获取-复制代码到hexo/themes/yilia/_config.yml中的baidu_analytics  3. 来必力 注册并登录 来必力 安装来必力-代码管理-复制代码到hexo/themes/yilia/layout/_partial/article.ejs">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-03-01T06:15:21.486Z">
+<meta property="og:updated_time" content="2018-03-02T02:18:33.059Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo GitHub 简明版博客优化">
 <meta name="twitter:description" content="1. 环境配置基于 hexo-theme-yilia 2. 百度统计 注册并登录 百度统计 代码管理-代码获取-复制代码到hexo/themes/yilia/_config.yml中的baidu_analytics  3. 来必力 注册并登录 来必力 安装来必力-代码管理-复制代码到hexo/themes/yilia/layout/_partial/article.ejs">
@@ -34,6 +34,19 @@
     }
   </style>
   
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-114987228-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
 
   
 <script>
@@ -226,10 +239,16 @@ var _hmt = _hmt || [];
 </li>
 </ul>
 <p><code>hexo/_config.yml</code>配置<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">baidusitemap:</span><br><span class="line">    path: baidusitemap.xml</span><br><span class="line"></span><br><span class="line">skip_render:</span><br><span class="line">  - baidu_verify_KoktB8hGH2.html</span><br></pre></td></tr></table></figure></p>
-<h2 id="6-References"><a href="#6-References" class="headerlink" title="6. References"></a>6. References</h2><ul>
+<h2 id="6-添加404公益页面"><a href="#6-添加404公益页面" class="headerlink" title="6. 添加404公益页面"></a>6. 添加404公益页面</h2><p>腾讯404公益页面<code>source/404.html</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;</span><br><span class="line">	var domain=&apos;https://qzonestyle.gtimg.cn/qzone_v6/lostchild/&apos;;</span><br><span class="line">&lt;/script&gt;</span><br><span class="line">&lt;script type=&quot;text/javascript&quot; src=&quot;https://qzonestyle.gtimg.cn/qzone_v6/lostchild/data.js&quot;&gt;&lt;/script&gt;</span><br><span class="line">&lt;script type=&quot;text/javascript&quot; src=&quot;https://qzonestyle.gtimg.cn/qzone_v6/lostchild/page.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></p>
+<h2 id="7-Google-Analytics（分析）"><a href="#7-Google-Analytics（分析）" class="headerlink" title="7. Google Analytics（分析）"></a>7. Google Analytics（分析）</h2><ol>
+<li>注册 <a href="http://www.google.cn/intl/zh-CN_ALL/analytics/" target="_blank" rel="noopener">Google Analytics（分析）</a></li>
+<li>添加跟踪代码-复制代码到<code>hexo/themes/yilia/_config.yml</code>中的<code>google_analytics</code></li>
+</ol>
+<h2 id="8-References"><a href="#8-References" class="headerlink" title="8. References"></a>8. References</h2><ul>
 <li><a href="http://cighao.com/2016/02/14/optimization-of-hexo/" target="_blank" rel="noopener">Hexo 主题优化</a></li>
 <li><a href="http://www.arao.me/2015/hexo-next-theme-optimize-seo/" target="_blank" rel="noopener">动动手指，不限于NexT主题的Hexo优化（SEO篇）</a></li>
 <li><a href="http://www.heqiangfly.com/2016/01/11/blog-hexo-optimize/" target="_blank" rel="noopener">Hexo博客配置优化</a></li>
+<li><a href="https://eason-yang.com/2016/08/06/set-tencent-lostchild-404-page-for-ssl/" target="_blank" rel="noopener">使腾讯404公益页面支持HTTPS</a></li>
 </ul>
 
       
@@ -274,7 +293,7 @@ var _hmt = _hmt || [];
             </li>
             <li class="post-copyright-link">
               <strong>本文链接：</strong>
-              <a href="/2018/02/23/blogOptimize/" title="Hexo+Github搭建自己的博客">https://T5750.coding.me/2018/02/23/blogOptimize/</a>
+              <a href="/2018/02/23/blogOptimize/" title="Hexo+Github搭建自己的博客">https://T5750.github.io/2018/02/23/blogOptimize/</a>
             </li>
             <li class="post-copyright-license">
               <strong>版权声明： </strong>
@@ -364,7 +383,7 @@ var _hmt = _hmt || [];
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//pan.baidu.com/share/qrcode?url=https://T5750.coding.me/2018/02/23/blogOptimize/" alt="微信分享二维码">
+      <img src="//pan.baidu.com/share/qrcode?url=https://T5750.github.io/2018/02/23/blogOptimize/" alt="微信分享二维码">
     </div>
 </div>
 
