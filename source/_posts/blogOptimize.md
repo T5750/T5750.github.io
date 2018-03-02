@@ -5,6 +5,7 @@ categories:
 - Work
 tags: [Hexo, Git]
 date: 2018-02-23 10:35:28
+toc: true
 ---
 ## 1. 环境配置
 基于 [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
@@ -64,7 +65,22 @@ skip_render:
   - baidu_verify_KoktB8hGH2.html
 ```
 
-## 6. References
+## 6. 添加404公益页面
+腾讯404公益页面`source/404.html`
+```
+<script type="text/javascript" charset="utf-8">
+	var domain='https://qzonestyle.gtimg.cn/qzone_v6/lostchild/';
+</script>
+<script type="text/javascript" src="https://qzonestyle.gtimg.cn/qzone_v6/lostchild/data.js"></script>
+<script type="text/javascript" src="https://qzonestyle.gtimg.cn/qzone_v6/lostchild/page.js"></script>
+```
+
+## 7. Google Analytics（分析）
+1. 注册 [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
+1. 添加跟踪代码-复制代码到`hexo/themes/yilia/_config.yml`中的`google_analytics`
+
+## 8. References
 - [Hexo 主题优化](http://cighao.com/2016/02/14/optimization-of-hexo/)
 - [动动手指，不限于NexT主题的Hexo优化（SEO篇）](http://www.arao.me/2015/hexo-next-theme-optimize-seo/)
 - [Hexo博客配置优化](http://www.heqiangfly.com/2016/01/11/blog-hexo-optimize/)
+- [使腾讯404公益页面支持HTTPS](https://eason-yang.com/2016/08/06/set-tencent-lostchild-404-page-for-ssl/)

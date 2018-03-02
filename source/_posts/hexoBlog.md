@@ -5,6 +5,7 @@ categories:
 - Work
 tags: [Hexo, Git]
 date: 2018-02-12 09:19:28
+toc: true
 ---
 ## 1. 环境配置
 [Node.js](https://nodejs.org/en/)(必须) 一路默认安装即可

@@ -41,4 +41,5 @@ tags: [Hexo]
 - 2018-03-01
     - 购买域名 [evaneo.top](https://evaneo.top)
     - 添加腾讯空间 [404公益页面](/404.html)
-
+- 2018-03-02
+    - [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
