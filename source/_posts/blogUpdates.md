@@ -39,10 +39,12 @@ tags: [Hexo]
 - 2018-02-26
     - [T5750.coding.me](https://T5750.coding.me)
 - 2018-03-01
-    - 购买域名 [evaneo.top](https://evaneo.top)
+    - 购买域名 [evaneo.top](http://evaneo.top)
     - 添加腾讯空间 [404公益页面](/404.html)
 - 2018-03-02
     - [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
     - Bing Sitemap [提交网址到必应](https://www.bing.com/toolbox/submit-site-url)
     - 360 Sitemap [提交您的网站](http://info.so.com/site_submit.html)
     - Sogou Sitemap [网站收录](https://fankui.sogou.com/index.php/web/web/index)
+- 2018-03-06
+    - 域名生效

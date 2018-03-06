@@ -70,7 +70,7 @@ skip_render:
 - 输入主页的 URL，图片中的文字，提交
 - 添加 sitemap
 - 下载`BingSiteAuth.xml`，验证
-- 搜索`site:t5750.github.io`
+- 搜索`site:evaneo.top`
 
 ### 5.4 360 Sitemap
 - [提交您的网站](http://info.so.com/site_submit.html)

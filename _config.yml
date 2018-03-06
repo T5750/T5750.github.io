@@ -13,8 +13,9 @@ keywords: "后端,java,spring,springboot,hexo,js,jquery,javascript,html5,开发�
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://T5750.github.io
+#url: https://T5750.github.io
 #url: https://T5750.coding.me
+url: //evaneo.top
 root: /
 #permalink: :year/:month/:day/:title/
 permalink: :year/:month/:day/:subtitle/
