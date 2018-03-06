@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://T5750.coding.me/sitemap.xml
-Sitemap: https://T5750.coding.me/baidusitemap.xml
+Sitemap: http://evaneo.top/sitemap.xml
+Sitemap: http://evaneo.top/baidusitemap.xml
