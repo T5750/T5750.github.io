@@ -105,9 +105,9 @@ deploy:
 - type: git
   repo: git@github.com:T5750/T5750.github.io.git
   branch: master
-#- type: git
-#  repo: git@git.coding.net:T5750/T5750.coding.me.git
-#  branch: master
+- type: git
+  repo: git@git.coding.net:T5750/T5750.coding.me.git
+  branch: master
 
 sitemap:
     path: sitemap.xml
