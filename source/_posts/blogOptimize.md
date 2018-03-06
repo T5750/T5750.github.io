@@ -94,8 +94,27 @@ skip_render:
 1. 注册 [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
 1. 添加跟踪代码-复制代码到`hexo/themes/yilia/_config.yml`中的`google_analytics`
 
-## 8. References
+## 8. 域名
+### 8.1 万网
+- 注册域名 [evaneo.top](http://evaneo.top)
+- 实名认证
+- 修改域名DNS
+
+### 8.2 DNSPod
+- 登录 [DNSPod](https://www.dnspod.cn/Login)
+- 域名解析-添加域名-添加记录
+```
+@       A      默认  192.30.252.153
+@       A      默认  192.30.252.154
+@       CNAME  国内  gitcafe.io.
+www     CNAME  默认  jackroyal.github.io.
+www     CNAME  国内  gitcafe.io.
+```
+
+## 9. References
 - [Hexo 主题优化](http://cighao.com/2016/02/14/optimization-of-hexo/)
 - [动动手指，不限于NexT主题的Hexo优化（SEO篇）](http://www.arao.me/2015/hexo-next-theme-optimize-seo/)
 - [Hexo博客配置优化](http://www.heqiangfly.com/2016/01/11/blog-hexo-optimize/)
 - [使腾讯404公益页面支持HTTPS](https://eason-yang.com/2016/08/06/set-tencent-lostchild-404-page-for-ssl/)
+- [解决 Github Pages 禁止百度爬虫的方法](https://bblove.me/2015/11/25/how-to-solve-the-problem-that-github-blocks-the-baidu-spider/)
+- [解决 Github Pages 禁止百度爬虫的方法2--从gitcafe迁移到coding.net](https://bblove.me/2016/03/06/migrate-pages-from-gitcafe-to-coding/)

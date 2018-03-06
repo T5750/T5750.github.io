@@ -6,7 +6,7 @@ categories:
 date: 2018-02-13 09:00:49
 tags: [Hexo]
 ---
-## 1. git branch master
+## Git branch master
 ### v0.1.0
 - 2018-02-11
     - [Hexo](https://hexo.io/zh-cn) Theme [Yilia](https://github.com/litten/hexo-theme-yilia)
@@ -23,7 +23,7 @@ tags: [Hexo]
 
 <!-- more -->
 
-## 2. git branch hexo
+## Git branch hexo
 ### v0.2.0
 - 2018-02-22
     - git branch hexo
@@ -39,7 +39,7 @@ tags: [Hexo]
 - 2018-02-26
     - [T5750.coding.me](https://T5750.coding.me)
 - 2018-03-01
-    - 购买域名 [evaneo.top](http://evaneo.top)
+    - 注册域名 [evaneo.top](http://evaneo.top)
     - 添加腾讯空间 [404公益页面](/404.html)
 - 2018-03-02
     - [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
