@@ -118,19 +118,7 @@ git pull
 <!-- more -->
 ```
 
-#### 4.2.5 Gitment评论
-1.注册 [OAuth Application](https://github.com/settings/applications/new)
-2.引入 Gitment
-```
-gitment_owner: T5750 #你的 GitHub ID
-gitment_repo: 'T5750.github.io' #存储评论的 repo
-gitment_oauth:
-  client_id: #client ID
-  client_secret: #client secret
-```
-3.初始化评论
-
-#### 4.2.6 不蒜子访问量统计
+#### 4.2.5 不蒜子访问量统计
 `hexo/themes/yilia/layout/_partial/footer.ejs`引入`busuanzi.js`
 ```
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -153,6 +141,4 @@ gitment_oauth:
 - [指令 | Hexo](https://hexo.io/zh-cn/docs/commands.html)
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
-- [Gitment](https://github.com/imsun/gitment)
-- [Gitment系统Validation Failed问题的解决](http://www.xjdesyxx.top/2018/02/07/errsln/)
 - [Hexo Yilia主题增加分享以及访问统计](https://www.jianshu.com/p/cb0a105d7a81)
