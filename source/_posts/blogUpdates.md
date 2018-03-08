@@ -48,3 +48,7 @@ tags: [Hexo]
     - Sogou Sitemap [网站收录](https://fankui.sogou.com/index.php/web/web/index)
 - 2018-03-06
     - 域名生效
+
+### v0.2.3
+- 2018-03-08
+    - [相册](/photos/)

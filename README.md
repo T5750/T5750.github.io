@@ -17,3 +17,9 @@ Welcome to my blog [http://evaneo.top](http://evaneo.top)
 ## Hexo Deploy
 `.deploy_git/`
 - `.gitignore`
+
+## Photos
+`source/photos/`
+- `index.ejs`
+- `ins.js`
+- `ins.json`
