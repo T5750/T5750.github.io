@@ -4,3 +4,4 @@ db.json
 *.iml
 node_modules/
 themes/
+public/
