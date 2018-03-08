@@ -1,5 +1,5 @@
 # T5750.github.io
-Welcome to my blog [evaneo.top](http://evaneo.top)
+Welcome to my blog [http://evaneo.top](http://evaneo.top)
 
 ## Hexo
 - `_config.yml`
@@ -13,3 +13,7 @@ Welcome to my blog [evaneo.top](http://evaneo.top)
     - `gitment_oauth`: `client_id` and `client_secret`
 - `layout/_partial/footer.ejs`
 - `layout/_partial/article.ejs`
+
+## Hexo Deploy
+`.deploy_git/`
+- `.gitignore`
