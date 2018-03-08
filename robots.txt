@@ -9,6 +9,7 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /photos/
 
 Sitemap: http://evaneo.top/sitemap.xml
 Sitemap: http://evaneo.top/baidusitemap.xml
