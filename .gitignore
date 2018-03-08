@@ -1,0 +1,6 @@
+.deploy_git/
+.idea/
+db.json
+*.iml
+node_modules/
+themes/
