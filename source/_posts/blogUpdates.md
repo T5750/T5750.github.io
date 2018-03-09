@@ -33,7 +33,7 @@ tags: [Hexo]
     - Google Sitemap [Google站长工具](https://www.google.com/webmasters/tools/home?hl=zh-CN)
     - Baidu Sitemap [链接提交](https://ziyuan.baidu.com/linksubmit/url)
 - 2018-02-25
-    - [留言板](/comments/)
+    - [留言板](/comments/index.html)
 
 ### v0.2.2
 - 2018-02-26
@@ -51,4 +51,4 @@ tags: [Hexo]
 
 ### v0.2.3
 - 2018-03-08
-    - [相册](/photos/)
+    - [相册](/photos/index.html)
