@@ -35,8 +35,8 @@ gitment_oauth:
 3.初始化评论
 
 ### 3.2 来必力
-1. 注册并登录 [来必力](http://laibili.com.cn/login_form)
-1. 安装来必力-代码管理-复制代码到`hexo/themes/yilia/layout/_partial/article.ejs`
+1. 注册并登录 [来必力](https://livere.com/login_form)
+1. 安装来必力-[代码管理](https://livere.com/insight/myCode)-复制代码到`hexo/themes/yilia/layout/_partial/article.ejs`
 
 ## 4. RSS
 ```
