@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="兰染的博客">
 <meta property="og:description" content="1. 环境配置Node.js(必须) 一路默认安装即可安装Git(必须) 一路默认安装即可Github账号(必须) 1.1 Ubuntu1234sudo ln -s /opt/node-v8.5.0-linux-x64/bin/node /usr/local/bin/nodesudo ln -s /opt/node-v8.5.0-linux-x64/bin/npm /usr/local/bin/n">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-03-08T06:50:11.788Z">
+<meta property="og:updated_time" content="2018-06-25T02:41:06.374Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo GitHub 简明版博客搭建">
 <meta name="twitter:description" content="1. 环境配置Node.js(必须) 一路默认安装即可安装Git(必须) 一路默认安装即可Github账号(必须) 1.1 Ubuntu1234sudo ln -s /opt/node-v8.5.0-linux-x64/bin/node /usr/local/bin/nodesudo ln -s /opt/node-v8.5.0-linux-x64/bin/npm /usr/local/bin/n">
@@ -449,6 +449,22 @@ var _hmt = _hmt || [];
 
   
 
+  
+  <div id="gitment-ctn"></div> 
+<link rel="stylesheet" href="//imsun.github.io/gitment/style/default.css">
+<script src="//imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: "http://evaneo.top/2018/02/12/hexoBlog/",
+  owner: 'T5750',
+  repo: 'T5750.github.io',
+  oauth: {
+    client_id: '507c9ddcace754f38fce',
+    client_secret: '3dcc155017a0b5cbd02d582ec57e87cf6160e4a4',
+  },
+})
+gitment.render('gitment-ctn')
+</script>
   
 <!-- 来必力City版安装代码 -->
 <div id="lv-container" data-id="city" data-uid="MTAyMC8zNDEyNS8xMDY2Mg==">
