@@ -38,6 +38,9 @@ gitment_oauth:
 1. 注册并登录 [来必力](https://livere.com/login_form)
 1. 安装来必力-[代码管理](https://livere.com/insight/myCode)-复制代码到`hexo/themes/yilia/layout/_partial/article.ejs`
 
+**Tips**
+- 2018-06-26 来必力City版安装代码不显示评论，迁为Gitment [进行中]
+
 ## 4. RSS
 ```
 npm install hexo-generator-feed
