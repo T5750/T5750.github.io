@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="兰染的博客">
 <meta property="og:description" content="1. 环境配置基于 hexo-theme-yilia 2. 统计分析2.1 百度统计 注册并登录 百度统计 代码管理-代码获取-复制代码到hexo/themes/yilia/_config.yml中的baidu_analytics  2.2 Google Analytics（分析） 注册 Google Analytics（分析） 添加跟踪代码-复制代码到hexo/themes/yilia/_con">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-06-26T07:58:15.464Z">
+<meta property="og:updated_time" content="2018-06-26T08:14:47.111Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo GitHub 简明版博客优化">
 <meta name="twitter:description" content="1. 环境配置基于 hexo-theme-yilia 2. 统计分析2.1 百度统计 注册并登录 百度统计 代码管理-代码获取-复制代码到hexo/themes/yilia/_config.yml中的baidu_analytics  2.2 Google Analytics（分析） 注册 Google Analytics（分析） 添加跟踪代码-复制代码到hexo/themes/yilia/_con">
@@ -232,7 +232,10 @@ var _hmt = _hmt || [];
 <li>注册并登录 <a href="https://livere.com/login_form" target="_blank" rel="noopener">来必力</a></li>
 <li>安装来必力-<a href="https://livere.com/insight/myCode" target="_blank" rel="noopener">代码管理</a>-复制代码到<code>hexo/themes/yilia/layout/_partial/article.ejs</code></li>
 </ol>
-<p><strong>PS: 2018-06-26 来必力City版安装代码不显示评论，迁为Gitment</strong></p>
+<p><strong>Tips</strong></p>
+<ul>
+<li>2018-06-26 来必力City版安装代码不显示评论，迁为Gitment [进行中]</li>
+</ul>
 <h2 id="4-RSS"><a href="#4-RSS" class="headerlink" title="4. RSS"></a>4. RSS</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-feed</span><br></pre></td></tr></table></figure>
 <p><code>hexo/themes/yilia/_config.yml</code>配置<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rss: &quot;/atom.xml&quot;</span><br></pre></td></tr></table></figure></p>
 <h2 id="5-Sitemap"><a href="#5-Sitemap" class="headerlink" title="5. Sitemap"></a>5. Sitemap</h2><h3 id="5-1-Google-Sitemap"><a href="#5-1-Google-Sitemap" class="headerlink" title="5.1 Google Sitemap"></a>5.1 Google Sitemap</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-sitemap --save</span><br></pre></td></tr></table></figure>
@@ -510,6 +513,7 @@ gitment.render('gitment-ctn')
 </script>
   
 <!-- 来必力City版安装代码 -->
+<!--
 <div id="lv-container" data-id="city" data-uid="MTAyMC8zNDEyNS8xMDY2Mg==">
   <script type="text/javascript">
     (function(d, s) {
@@ -526,6 +530,7 @@ gitment.render('gitment-ctn')
   </script>
   <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
 </div>
+-->
 
 
           </div>
