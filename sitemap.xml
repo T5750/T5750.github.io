@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://evaneo.top/comments/index.html</loc>
+    
+    <lastmod>2018-06-27T02:35:45.127Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://evaneo.top/404.html</loc>
     
     <lastmod>2018-06-27T01:54:23.553Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://evaneo.top/photos/index.html</loc>
     
     <lastmod>2018-06-26T08:42:26.351Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://evaneo.top/comments/index.html</loc>
-    
-    <lastmod>2018-06-26T08:42:26.336Z</lastmod>
     
   </url>
   
