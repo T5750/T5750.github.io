@@ -17,7 +17,7 @@ tags: [Hexo]
 ### v0.1.1
 - 2018-02-13
     - [百度统计](https://tongji.baidu.com/web/welcome/login)
-    - [Gitment](https://github.com/imsun/gitment) 更新为 [来必力](http://laibili.com.cn/login_form)
+    - [Gitment](https://github.com/imsun/gitment) 更新为 [来必力](https://livere.com/login_form)
     - 版权声明
     - [rss](/atom.xml)
 
@@ -37,6 +37,7 @@ tags: [Hexo]
 
 ### v0.2.2
 - 2018-02-26
+    - [T5750.github.io](https://t5750.github.io/)
     - [T5750.coding.me](http://T5750.coding.me)
 - 2018-03-01
     - 注册域名 [evaneo.top](http://evaneo.top)
