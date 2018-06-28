@@ -38,6 +38,27 @@ gitment_oauth:
 1. 注册并登录 [来必力](https://livere.com/login_form)
 1. 安装来必力-[代码管理](https://livere.com/insight/myCode)-复制代码到`hexo/themes/yilia/layout/_partial/article.ejs`
 
+### 3.3 CommentHub
+1. 注册 [CommentHub](https://commenthub.github.io/)，设置Website
+1. 引入 CommentHub
+```
+<script type="text/javascript">
+    var commenthub_id = YOUR_ID;
+    var commenthub_website = YOUR_DOMAIN;//https://commenthub.github.io
+    var commenthub_identifier = YOUR_POST_ID;//https://commenthub.github.io/index.html
+    var commenthub_url = YOUR_POST_URL;//https://commenthub.github.io/index.html
+    var commenthub_title = YOUR_POST_TITLE;//CommentHub Example
+    (function () {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = 'https://commenthub.herokuapp.com/js/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+<div id="commenthub_thread" style="margin: 0;padding: 0;border: 0;font: inherit;font-size: 100%;vertical-align: baseline;"></div>
+```
+
 ## 4. RSS
 ```
 npm install hexo-generator-feed
@@ -134,3 +155,4 @@ www     CNAME  国内  gitcafe.io.
 - [使腾讯404公益页面支持HTTPS](https://eason-yang.com/2016/08/06/set-tencent-lostchild-404-page-for-ssl/)
 - [解决 Github Pages 禁止百度爬虫的方法](https://bblove.me/2015/11/25/how-to-solve-the-problem-that-github-blocks-the-baidu-spider/)
 - [解决 Github Pages 禁止百度爬虫的方法2--从gitcafe迁移到coding.net](https://bblove.me/2016/03/06/migrate-pages-from-gitcafe-to-coding/)
+- [CommentHub Example](https://commenthub.github.io/)

@@ -176,9 +176,10 @@
   <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
 </div>
 -->
+<!-- CommentHub start -->
 <script type="text/javascript">
 	var commenthub_id = 9927080;
-	var commenthub_website = 'https://t5750.github.io/';//https://commenthub.github.io
+	var commenthub_website = '<%-config.url_github%>';//https://commenthub.github.io
 	var commenthub_identifier = commenthub_website+'<%-url_for(post.path)%>';//https://commenthub.github.io/index.html
 	var commenthub_url = commenthub_website+'<%-url_for(post.path)%>';//https://commenthub.github.io/index.html
 	var commenthub_title = '<%-post.title%>';//CommentHub Example
@@ -191,4 +192,5 @@
 	}());
 </script>
 <div id="commenthub_thread" style="margin: 0;padding: 0;border: 0;font: inherit;font-size: 100%;vertical-align: baseline;"></div>
+<!-- CommentHub end -->
 <% } %>

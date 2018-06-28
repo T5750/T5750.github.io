@@ -53,3 +53,7 @@ tags: [Hexo]
 ### v0.2.3
 - 2018-03-08
     - [相册](/photos/index.html)
+
+### v0.2.4
+- 2018-06-27
+    - [来必力](https://livere.com/login_form) 更新为 [CommentHub](https://commenthub.github.io/)
