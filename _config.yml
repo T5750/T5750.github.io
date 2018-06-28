@@ -16,7 +16,7 @@ keywords: "后端,java,spring,springboot,hexo,js,jquery,javascript,html5,开发�
 #url: https://T5750.github.io
 #url: https://T5750.coding.me
 url: http://evaneo.top
-url_github: https://t5750.github.io
+url_github: https://t5750.github.io/
 root: /
 #permalink: :year/:month/:day/:title/
 permalink: :year/:month/:day/:subtitle/
