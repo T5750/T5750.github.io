@@ -59,6 +59,15 @@ gitment_oauth:
 <div id="commenthub_thread" style="margin: 0;padding: 0;border: 0;font: inherit;font-size: 100%;vertical-align: baseline;"></div>
 ```
 
+### 3.4 Disqus
+1. 注册 [Disqus](https://disqus.com/profile/signup/)
+1. Settings -> [Add Disqus To Site](https://disqus.com/features/engage/) -> GET STARTED -> [I want to install Disqus on my site](https://disqus.com/profile/signup/intent/) -> [Create a new site](https://disqus.com/admin/create/) (Website Name, Category, Language)
+1. I don't see my platform listed, install manually with Universal Code -> Configure Disqus (Shortname, Website Name, Website URL)
+```
+disqus: true
+disqus_shortname: evaneo
+```
+
 ## 4. RSS
 ```
 npm install hexo-generator-feed
