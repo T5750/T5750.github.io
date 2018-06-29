@@ -76,6 +76,7 @@ tag_map:
   Spring: spring
   SpringBoot: springboot
   Websites: websites
+  IDE: IDE
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
