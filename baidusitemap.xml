@@ -3,17 +3,15 @@
 
 
     
-    
-    
   <url>
-    <loc>http://evaneo.top/2018/02/13/blogUpdates/</loc>
-    <lastmod>2018-06-28T04:30:49.444Z</lastmod>
+    <loc>http://evaneo.top/2018/06/29/ideaSettings/</loc>
+    <lastmod>2018-06-29T06:17:46.449Z</lastmod>
     <data>
         <display>
-        <title>博客更新汇总</title>
-        <pubTime>2018-02-13T01:00:49.000Z</pubTime>
+        <title>IntelliJ IDEA Settings</title>
+        <pubTime>2018-06-29T02:35:34.000Z</pubTime>
         
-        <tag>Hexo</tag>
+        <tag>IDE</tag>
          
          
            
@@ -28,9 +26,11 @@
     
     
     
+    
+    
   <url>
     <loc>http://evaneo.top/2018/02/12/websites/</loc>
-    <lastmod>2018-06-28T02:54:07.843Z</lastmod>
+    <lastmod>2018-06-29T01:37:05.958Z</lastmod>
     <data>
         <display>
         <title>Websites</title>
@@ -50,7 +50,7 @@
     
   <url>
     <loc>http://evaneo.top/2018/02/12/hexoBlog/</loc>
-    <lastmod>2018-06-28T02:54:07.841Z</lastmod>
+    <lastmod>2018-06-29T01:37:05.952Z</lastmod>
     <data>
         <display>
         <title>Hexo GitHub 简明版博客搭建</title>
@@ -71,8 +71,28 @@
 
     
   <url>
+    <loc>http://evaneo.top/2018/02/13/blogUpdates/</loc>
+    <lastmod>2018-06-29T01:37:05.945Z</lastmod>
+    <data>
+        <display>
+        <title>博客更新汇总</title>
+        <pubTime>2018-02-13T01:00:49.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Work" url="http://evaneo.top/categories/work/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://evaneo.top/2018/03/09/blogPhotos/</loc>
-    <lastmod>2018-06-28T02:54:07.839Z</lastmod>
+    <lastmod>2018-06-29T01:37:05.930Z</lastmod>
     <data>
         <display>
         <title>Hexo GitHub 简明版博客相册</title>
@@ -92,7 +112,7 @@
     
   <url>
     <loc>http://evaneo.top/2018/02/23/blogOptimize/</loc>
-    <lastmod>2018-06-28T02:54:07.838Z</lastmod>
+    <lastmod>2018-06-29T01:37:05.921Z</lastmod>
     <data>
         <display>
         <title>Hexo GitHub 简明版博客优化</title>
