@@ -1,5 +1,5 @@
 ---
-title: IntelliJ IDEA Settings
+title: IntelliJ IDEA 常用设置与插件汇总
 subtitle: ideaSettings
 categories:
 - Work
@@ -8,8 +8,8 @@ date: 2018-06-29 10:35:34
 toc: true
 ---
 ## 1. Summary
-- 这篇文章，通过配置 IDEA 的设置和插件，让我们的工具更加得心应手。
-- 从 IDEA 14 逐渐到 IDEA 2017，记录常用的设置和插件。版本更新时，设置通过导出导入进行重用，插件需重装。
+- 这篇文章，通过配置 IDEA 的设置与插件，让我们的工具更加得心应手。
+- 从 IDEA 14 逐渐到 IDEA 2017，记录常用的设置与插件。版本更新时，设置通过导出导入进行重用，插件需重装。
 > 注：不同版本，Settings 菜单有所不同，用关键字进行搜索。以下目录结构参照 IDEA 2017。
 
 ## 2. Runtime Environment
