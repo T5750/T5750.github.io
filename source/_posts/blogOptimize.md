@@ -11,6 +11,9 @@ toc: true
 基于 [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
 
 ## 2. 统计分析
+
+<!-- more -->
+
 ### 2.1 百度统计
 1. 注册并登录 [百度统计](http://tongji.baidu.com/)
 1. 代码管理-代码获取-复制代码到`hexo/themes/yilia/_config.yml`中的`baidu_analytics`
@@ -18,8 +21,6 @@ toc: true
 ### 2.2 Google Analytics（分析）
 1. 注册 [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
 1. 添加跟踪代码-复制代码到`hexo/themes/yilia/_config.yml`中的`google_analytics`
-
-<!-- more -->
 
 ## 3. 评论
 ### 3.1 Gitment评论

@@ -10,6 +10,9 @@ tags: [Hexo]
 ### v0.1.0
 - 2018-02-11
     - [Hexo](https://hexo.io/zh-cn) Theme [Yilia](https://github.com/litten/hexo-theme-yilia)
+
+<!-- more -->
+
 - 2018-02-12
     - [Gitment](https://github.com/imsun/gitment) 评论系统
     - [不蒜子](http://busuanzi.ibruce.info/) 网页计数器
@@ -20,8 +23,6 @@ tags: [Hexo]
     - [Gitment](https://github.com/imsun/gitment) 更新为 [来必力](https://livere.com/login_form)
     - 版权声明
     - [rss](/atom.xml)
-
-<!-- more -->
 
 ## Git branch hexo
 ### v0.2.0

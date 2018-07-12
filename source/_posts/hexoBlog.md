@@ -12,6 +12,8 @@ toc: true
 安装[Git](http://git-scm.com/download/)(必须) 一路默认安装即可
 [Github](http://github.com/)账号(必须)
 
+<!-- more -->
+
 ### 1.1 Ubuntu
 ```
 sudo ln -s /opt/node-v8.5.0-linux-x64/bin/node /usr/local/bin/node
@@ -25,8 +27,6 @@ npm -v
 sudo npm config set registry https://registry.npm.taobao.org //设置淘宝镜像
 source ~/.bashrc //使修改立即生效
 ```
-
-<!-- more -->
 
 ## 2. Hexo
 右键打开`git bash`安装hexo

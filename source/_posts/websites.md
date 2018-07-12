@@ -12,6 +12,9 @@ toc: true
 - <a href="http://www.yiibai.com/" target="_blank">易百教程</a> - 专注于IT教程和实例
 - <a href="http://www.runoob.com/" target="_blank">菜鸟教程</a> - 提供了HTML，CSS，Javascript，Python，Java，Ruby，C，PHP , MySQL等基础知识与在线实例
 - [Programming Tutorials and Source Code Examples](http://www.java2s.com/) - Java, Mobile, C# /C++ /C, Database
+
+<!-- more -->
+
 - [Happy Codings](http://happycodings.com/) - Programming Code Examples with C++ C C# Java Php Asp Visual Basic
 - [OverAPI.com](http://overapi.com/) - Collecting all the cheat sheets
 - [基础教程网](http://teliute.org/) - 提供电脑基础入门学习的公益站点，可以在线浏览也可以下载到本机阅读
@@ -21,8 +24,6 @@ toc: true
 - <a href="http://wiki.smartbi.com.cn/pages/viewpage.action?pageId=9175131" target="_blank">技术参考 Home</a> - SQL server，SSAS，Mondrian，MDX语言，MySQL
 - <a href="https://git-scm.com/doc" target="_blank">Git</a> <a href="https://git-scm.com/book/zh/v2" target="_blank">简体中文</a> - distributed-even-if-your-workflow-isnt. Reference, Book, Videos, External Links.
 - <a href="http://wowubuntu.com/markdown/" target="_blank">Markdown 语法说明</a> (<a href="http://wowubuntu.com/markdown/basic.html" target="_blank">快速入门</a>)
-
-<!-- more -->
 
 ### 1.1 Videos
 - [Mars Android](http://www.marschen.com/)

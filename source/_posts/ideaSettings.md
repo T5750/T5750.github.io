@@ -12,13 +12,13 @@ toc: true
 - 从 IDEA 14 逐渐到 IDEA 2017，记录常用的设置与插件。版本更新时，设置通过导出导入进行重用，插件需重装。
 > 注：不同版本，Settings 菜单有所不同，用关键字进行搜索。以下目录结构参照 IDEA 2017。
 
+<!-- more -->
+
 ## 2. Runtime Environment
 - IntelliJ IDEA 14.0.5
 - IntelliJ IDEA 15.0.2
 - IntelliJ IDEA 2016.3.4
 - IntelliJ IDEA 2017.3.3
-
-<!-- more -->
 
 ## 3. Plugins
 ### General

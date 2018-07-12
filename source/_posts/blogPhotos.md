@@ -11,6 +11,9 @@ tags: [Hexo]
 - 图片来自 [外链工厂](http://www.wailian.work/)
 
 ## 2. 外链工厂
+
+<!-- more -->
+
 注册-登录-上传图片
 
 ## 3. 配置相册
@@ -19,8 +22,6 @@ tags: [Hexo]
 hexo new page photos
 ```
 删除`index.md`
-
-<!-- more -->
 
 ### 3.2 相册代码
 copy如下代码到`photos`
