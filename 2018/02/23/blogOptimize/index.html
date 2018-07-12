@@ -8,18 +8,18 @@
   <link rel="dns-prefetch" href="http://evaneo.top">
   <title>Hexo GitHub 简明版博客优化 | 兰染的博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="1. 环境配置基于 hexo-theme-yilia 2. 统计分析2.1 百度统计 注册并登录 百度统计 代码管理-代码获取-复制代码到hexo/themes/yilia/_config.yml中的baidu_analytics  2.2 Google Analytics（分析） 注册 Google Analytics（分析） 添加跟踪代码-复制代码到hexo/themes/yilia/_con">
+  <meta name="description" content="1. 环境配置基于 hexo-theme-yilia 2. 统计分析">
 <meta name="keywords" content="Hexo,Git">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hexo GitHub 简明版博客优化">
 <meta property="og:url" content="http://evaneo.top/2018/02/23/blogOptimize/index.html">
 <meta property="og:site_name" content="兰染的博客">
-<meta property="og:description" content="1. 环境配置基于 hexo-theme-yilia 2. 统计分析2.1 百度统计 注册并登录 百度统计 代码管理-代码获取-复制代码到hexo/themes/yilia/_config.yml中的baidu_analytics  2.2 Google Analytics（分析） 注册 Google Analytics（分析） 添加跟踪代码-复制代码到hexo/themes/yilia/_con">
+<meta property="og:description" content="1. 环境配置基于 hexo-theme-yilia 2. 统计分析">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-06-29T06:31:59.682Z">
+<meta property="og:updated_time" content="2018-07-12T02:54:08.539Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo GitHub 简明版博客优化">
-<meta name="twitter:description" content="1. 环境配置基于 hexo-theme-yilia 2. 统计分析2.1 百度统计 注册并登录 百度统计 代码管理-代码获取-复制代码到hexo/themes/yilia/_config.yml中的baidu_analytics  2.2 Google Analytics（分析） 注册 Google Analytics（分析） 添加跟踪代码-复制代码到hexo/themes/yilia/_con">
+<meta name="twitter:description" content="1. 环境配置基于 hexo-theme-yilia 2. 统计分析">
   
     <link rel="alternative" href="/atom.xml" title="兰染的博客" type="application/atom+xml">
   
@@ -217,7 +217,8 @@ var _hmt = _hmt || [];
     <div class="article-entry" itemprop="articleBody">
       
         <h2 id="1-环境配置"><a href="#1-环境配置" class="headerlink" title="1. 环境配置"></a>1. 环境配置</h2><p>基于 <a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">hexo-theme-yilia</a></p>
-<h2 id="2-统计分析"><a href="#2-统计分析" class="headerlink" title="2. 统计分析"></a>2. 统计分析</h2><h3 id="2-1-百度统计"><a href="#2-1-百度统计" class="headerlink" title="2.1 百度统计"></a>2.1 百度统计</h3><ol>
+<h2 id="2-统计分析"><a href="#2-统计分析" class="headerlink" title="2. 统计分析"></a>2. 统计分析</h2><a id="more"></a>
+<h3 id="2-1-百度统计"><a href="#2-1-百度统计" class="headerlink" title="2.1 百度统计"></a>2.1 百度统计</h3><ol>
 <li>注册并登录 <a href="http://tongji.baidu.com/" target="_blank" rel="noopener">百度统计</a></li>
 <li>代码管理-代码获取-复制代码到<code>hexo/themes/yilia/_config.yml</code>中的<code>baidu_analytics</code></li>
 </ol>
@@ -225,7 +226,6 @@ var _hmt = _hmt || [];
 <li>注册 <a href="http://www.google.cn/intl/zh-CN_ALL/analytics/" target="_blank" rel="noopener">Google Analytics（分析）</a></li>
 <li>添加跟踪代码-复制代码到<code>hexo/themes/yilia/_config.yml</code>中的<code>google_analytics</code></li>
 </ol>
-<a id="more"></a>
 <h2 id="3-评论"><a href="#3-评论" class="headerlink" title="3. 评论"></a>3. 评论</h2><h3 id="3-1-Gitment评论"><a href="#3-1-Gitment评论" class="headerlink" title="3.1 Gitment评论"></a>3.1 Gitment评论</h3><p>1.注册 <a href="https://github.com/settings/applications/new" target="_blank" rel="noopener">OAuth Application</a><br>2.引入 Gitment<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">gitment_owner: T5750 #你的 GitHub ID</span><br><span class="line">gitment_repo: &apos;T5750.github.io&apos; #存储评论的 repo</span><br><span class="line">gitment_oauth:</span><br><span class="line">  client_id: #client ID</span><br><span class="line">  client_secret: #client secret</span><br></pre></td></tr></table></figure></p>
 <p>3.初始化评论</p>
 <h3 id="3-2-来必力"><a href="#3-2-来必力" class="headerlink" title="3.2 来必力"></a>3.2 来必力</h3><ol>
@@ -657,15 +657,15 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">IDE</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">Hexo</a>
               </li>
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color4">Git</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color4">IDE</a>
               </li>
              
               <li class="article-tag-list-item">
