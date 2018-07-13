@@ -120,13 +120,13 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: '所有文章'
-  friends: '友链'
+  innerArchive: '所有文章 '
+  friends: '友链 '
   aboutme: '关于'
 
 friends:
-  CSDN_Copyにんじゃ兰染: http://blog.csdn.net/evangel_z
-  博客园_绿毛肉粽: http://www.cnblogs.com/bmbm/
-  BlogJava_绿毛肉粽: http://www.blogjava.net/evangel/
+  Copyにんじゃ兰染（CSDN）: http://blog.csdn.net/evangel_z
+  绿毛肉粽（博客园）: http://www.cnblogs.com/bmbm/
+  绿毛肉粽（BlogJava）: http://www.blogjava.net/evangel/
 
 aboutme: 网名：兰染<br><br>热衷技术，热爱生活，<br>徘徊于菜鸟与高手之间已有数年，<br>尚不能登大雅之堂，<br>常有好文章苦于无处珍藏，<br>又有日常琐碎不堪记忆无处安放，<br>遂筑博客一枚，以作日记之用。
