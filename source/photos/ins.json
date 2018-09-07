@@ -5,10 +5,10 @@
 			"arr": {
 				"year": 2018,
 				"month": 6,
-				"src": [""],
-				"link": ["2018/06/29/TreeHugger"],
-				"text": ["Tree Hugger"],
-				"type": ["image"]
+				"src": ["", "", ""],
+				"link": ["2018/09/07/swan-min","2018/09/07/swan2-min","2018/09/07/swan3-min"],
+				"text": ["Swan","Swan","Swan"],
+				"type": ["image","image","image"]
 			}
 		},{
 			"date": "2018-03",
