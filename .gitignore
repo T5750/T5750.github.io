@@ -44,3 +44,4 @@ themes/yilia/package.json
 themes/yilia/source-src/
 themes/yilia/source/
 themes/yilia/webpack.config.js
+package-lock.json
