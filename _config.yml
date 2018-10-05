@@ -69,6 +69,7 @@ default_category: uncategorized
 category_map: 
   Life: life
   Work: work
+  Games: games
 tag_map:
   Git: git
   Hexo: hexo
