@@ -1,9 +1,11 @@
 ---
-title: 实况足球2017大师联赛心得
+title: 实况足球 2017 大师联赛 心得
 subtitle: pes2017ML
 categories:
   - Games
+tags: [PES]
 date: 2018-10-04 17:20:49
+toc: true
 ---
 ## 简介
 ![homepage](https://www.wailian.work/images/2018/10/04/homepage-min.png)
@@ -42,15 +44,28 @@ date: 2018-10-04 17:20:49
 - 续约期多上场
 - 第一时间续约
 
-## 阵容
+## 常规
+### 阵容
 ![mainmenu](https://www.wailian.work/images/2018/10/05/mainmenu-min.png)
 
-## 进攻
+![team](http://www.wailian.work/images/2018/10/04/team-min.png)
+
+### 进攻
 - 下底传中，45°传中，角球冲刺。**头球！头球！！头球！！！**
 - 肋部直塞
 - 倒三角
 - 低平球传中
 
-## 防守
+### 防守
 - 堵路线，猜猜猜
 - 少伸脚
+
+## 记录
+### 2020-2021
+![season-2020-1](http://www.wailian.work/images/2018/10/04/season-2020-1-min.png)
+
+![season-2020-2](http://www.wailian.work/images/2018/10/04/season-2020-2-min.png)
+
+![season-2020-3](http://www.wailian.work/images/2018/10/04/season-2020-3-min.png)
+
+![season-2020-4](http://www.wailian.work/images/2018/10/04/season-2020-4-min.png)
