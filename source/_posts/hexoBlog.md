@@ -121,7 +121,7 @@ git pull
 #### 4.2.5 不蒜子访问量统计
 `hexo/themes/yilia/layout/_partial/footer.ejs`引入`busuanzi.js`
 ```
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 ```
 站点总访问量`hexo/themes/yilia/layout/_partial/footer.ejs`
 ```

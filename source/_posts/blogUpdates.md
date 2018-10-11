@@ -62,3 +62,7 @@ tags: [Hexo]
 ### v0.2.5
 - 2018-06-28
     - [Disqus](https://disqus.com/profile/login/)
+
+### v0.2.6
+- 2018-10-11
+    - [不蒜子](http://busuanzi.ibruce.info/) 域名更新
