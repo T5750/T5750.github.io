@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="兰染的博客">
 <meta property="og:description" content="1. 环境配置Node.js(必须) 一路默认安装即可安装Git(必须) 一路默认安装即可Github账号(必须)">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-10-08T06:36:11.040Z">
+<meta property="og:updated_time" content="2018-10-11T07:20:07.286Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo GitHub 简明版博客搭建">
 <meta name="twitter:description" content="1. 环境配置Node.js(必须) 一路默认安装即可安装Git(必须) 一路默认安装即可Github账号(必须)">
@@ -239,7 +239,7 @@ var _hmt = _hmt || [];
 <h4 id="4-2-2-配置"><a href="#4-2-2-配置" class="headerlink" title="4.2.2 配置"></a>4.2.2 配置</h4><p>修改hexo根目录下的 <code>_config.yml</code> ： <code>theme: yilia</code></p>
 <h4 id="4-2-3-更新"><a href="#4-2-3-更新" class="headerlink" title="4.2.3 更新"></a>4.2.3 更新</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd themes/yilia</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure>
 <h4 id="4-2-4-文章截断"><a href="#4-2-4-文章截断" class="headerlink" title="4.2.4 文章截断"></a>4.2.4 文章截断</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;!-- more --&gt;</span><br></pre></td></tr></table></figure>
-<h4 id="4-2-5-不蒜子访问量统计"><a href="#4-2-5-不蒜子访问量统计" class="headerlink" title="4.2.5 不蒜子访问量统计"></a>4.2.5 不蒜子访问量统计</h4><p><code>hexo/themes/yilia/layout/_partial/footer.ejs</code>引入<code>busuanzi.js</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;script async src=&quot;//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></p>
+<h4 id="4-2-5-不蒜子访问量统计"><a href="#4-2-5-不蒜子访问量统计" class="headerlink" title="4.2.5 不蒜子访问量统计"></a>4.2.5 不蒜子访问量统计</h4><p><code>hexo/themes/yilia/layout/_partial/footer.ejs</code>引入<code>busuanzi.js</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;script async src=&quot;//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></p>
 <p>站点总访问量<code>hexo/themes/yilia/layout/_partial/footer.ejs</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;i style=&quot;font-size:12px;&quot; class=&quot;icon-smile&quot; title=&quot;访问量&quot;&gt;&lt;/i&gt; &lt;span style=&quot;font-size:12px;&quot; title=&quot;访问量&quot;&gt;&lt;span id=&quot;busuanzi_value_site_pv&quot;&gt;&lt;/span&gt;次访问&lt;/span&gt;</span><br></pre></td></tr></table></figure></p>
 <p>单页面访问量<code>hexo/themes/yilia/layout/_partial/article.ejs</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;%- partial(&apos;post/category&apos;) %&gt;</span><br><span class="line">&lt;%if(!index)&#123;%&gt;</span><br><span class="line">	&lt;i class=&quot;icon-smile&quot; title=&quot;阅读次数&quot;&gt;&lt;/i&gt; &lt;span style=&quot;font-size:14px;&quot; title=&quot;阅读次数&quot;&gt;&lt;span id=&quot;busuanzi_value_page_pv&quot;&gt;&lt;/span&gt;人阅读&lt;/span&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure></p>
 <h2 id="5-References"><a href="#5-References" class="headerlink" title="5. References"></a>5. References</h2><ul>
@@ -521,7 +521,7 @@ var _hmt = _hmt || [];
     <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
   </div>
 </footer>
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <style>
 #footer a {
     color: #1a1a1a;
@@ -603,15 +603,11 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">IDE</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">Hexo</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">PES</a>
+                <a href="javascript:void(0)" class="js-tag color4">IDE</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -620,6 +616,10 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color4">Websites</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color4">PES</a>
               </li>
             
             <div class="clearfix"></div>
