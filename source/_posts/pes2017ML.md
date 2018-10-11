@@ -9,6 +9,7 @@ toc: true
 ---
 ## 简介
 ![homepage](https://www.wailian.work/images/2018/10/04/homepage-min.png)
+_**多图预警**_
 
 <!-- more -->
 
@@ -40,6 +41,8 @@ toc: true
 ### 训练
 ![train](https://www.wailian.work/images/2018/10/04/train-min.png)
 
+>注：签约新人后，第一场上场，可获得球队角色
+
 ### 续约
 - 续约期多上场
 - 第一时间续约
@@ -69,3 +72,7 @@ toc: true
 ![season-2020-3](http://www.wailian.work/images/2018/10/04/season-2020-3-min.png)
 
 ![season-2020-4](http://www.wailian.work/images/2018/10/04/season-2020-4-min.png)
+
+## 总结
+- 头球，砸砸砸
+- 虽然很想把心得完全阐述清楚，但是所谓“书不尽言，言不尽意”，有什么不对或不清楚的地方大家还是实践吧
