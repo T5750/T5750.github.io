@@ -129,7 +129,8 @@ skip_render:
 - [网站收录](https://fankui.sogou.com/index.php/web/web/index)
 - [搜狗站长平台](http://zhanzhang.sogou.com/index.php/site/index)
 
-## 6. 404公益页面
+## 6. HTML页面
+### 6.1 404公益页面
 腾讯404公益页面`source/404.html`
 ```
 <script type="text/javascript" charset="utf-8">
@@ -138,6 +139,15 @@ skip_render:
 <script type="text/javascript" src="https://qzonestyle.gtimg.cn/qzone_v6/lostchild/data.js"></script>
 <script type="text/javascript" src="https://qzonestyle.gtimg.cn/qzone_v6/lostchild/page.js"></script>
 ```
+
+### 6.2 多合一收款二维码
+多合一收款二维码`source/oneQRCode.html`
+```
+qqUrl: "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&a=1&u=1097437863&ac=B4C5BACD47FE6936D4B6DD29D866E1FC3AEA141B073F9DD94DE6404509CEE0FA&n=孤帆远影&f=wallet",
+wechatUrl: "https://wx.tenpay.com/f2f?t=AQAAAFtDAYCgnh0H4NWppc2G0n0%3D",
+aliUrl: "HTTPS://QR.ALIPAY.COM/FKX05202GE16QHOXXX7NE6",
+```
+[多合一收款二维码体验链接](/oneQRCode.html)
 
 ## 7. 域名
 ### 7.1 万网
@@ -166,3 +176,4 @@ www     CNAME  国内  gitcafe.io.
 - [解决 Github Pages 禁止百度爬虫的方法](https://bblove.me/2015/11/25/how-to-solve-the-problem-that-github-blocks-the-baidu-spider/)
 - [解决 Github Pages 禁止百度爬虫的方法2--从gitcafe迁移到coding.net](https://bblove.me/2016/03/06/migrate-pages-from-gitcafe-to-coding/)
 - [CommentHub Example](https://commenthub.github.io/)
+- [多合一收款二维码原理及实现(源码)](https://mkblog.cn/922/)
