@@ -36,7 +36,6 @@ skip_render:
   - baidu_verify_b6B4X0s99Z.html
   - BingSiteAuth.xml
   - sogousiteverification.txt
-  - CNAME
 
 # Writing
 new_post_name: :title.md # File name of new posts
