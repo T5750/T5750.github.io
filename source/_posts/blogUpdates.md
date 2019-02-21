@@ -38,7 +38,7 @@ tags: [Hexo]
 
 ### v0.2.2
 - 2018-02-26
-    - [T5750.github.io](https://t5750.github.io/)
+    - [T5750.github.io](https://T5750.github.io)
     - [T5750.coding.me](http://T5750.coding.me)
 - 2018-03-01
     - 注册域名 [evaneo.top](http://evaneo.top)
@@ -66,3 +66,8 @@ tags: [Hexo]
 ### v0.2.6
 - 2018-10-11
     - [不蒜子](http://busuanzi.ibruce.info/) 域名更新
+
+### v0.2.7
+- 2019-02-21
+    - 停用域名 evaneo.top
+	- 启用 [T5750.github.io](https://T5750.github.io)
