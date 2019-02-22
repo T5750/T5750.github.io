@@ -1,156 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-    
-  <url>
-    <loc>https://T5750.github.io/2018/10/04/pes2017ML/</loc>
-    <lastmod>2019-02-21T05:34:55.083Z</lastmod>
-    <data>
-        <display>
-        <title>实况足球 2017 大师联赛 心得</title>
-        <pubTime>2018-10-04T09:20:49.000Z</pubTime>
-        
-        <tag>PES</tag>
-         
-         
-           
-             
-              <breadCrumb title="Games" url="https://T5750.github.io/categories/games/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://T5750.github.io/2018/02/13/blogUpdates/</loc>
-    <lastmod>2019-02-21T05:32:02.107Z</lastmod>
-    <data>
-        <display>
-        <title>博客更新汇总</title>
-        <pubTime>2018-02-13T01:00:49.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="Work" url="https://T5750.github.io/categories/work/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-    
-    
-    
-    
   <url>
     <loc>https://T5750.github.io/2018/02/12/websites/</loc>
-    <lastmod>2019-02-21T05:05:57.678Z</lastmod>
-    <data>
-        <display>
-        <title>Websites</title>
-        <pubTime>2018-02-12T04:57:34.000Z</pubTime>
-        
-        <tag>Websites</tag>
-         
-         
-           
-             
-              <breadCrumb title="Work" url="https://T5750.github.io/categories/work/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+    <lastmod>2019-02-22</lastmod>
+  </url>  <url>
+    <loc>https://T5750.github.io/2018/10/04/pes2017ML/</loc>
+    <lastmod>2019-02-22</lastmod>
+  </url>  <url>
     <loc>https://T5750.github.io/2018/06/29/ideaSettings/</loc>
-    <lastmod>2019-02-21T05:05:57.664Z</lastmod>
-    <data>
-        <display>
-        <title>IntelliJ IDEA 常用设置与插件汇总</title>
-        <pubTime>2018-06-29T02:35:34.000Z</pubTime>
-        
-        <tag>IDE</tag>
-         
-         
-           
-             
-              <breadCrumb title="Work" url="https://T5750.github.io/categories/work/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+    <lastmod>2019-02-22</lastmod>
+  </url>  <url>
     <loc>https://T5750.github.io/2018/02/12/hexoBlog/</loc>
-    <lastmod>2019-02-21T05:05:57.660Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo GitHub 简明版博客搭建</title>
-        <pubTime>2018-02-12T01:19:28.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Git</tag>
-         
-         
-           
-             
-              <breadCrumb title="Work" url="https://T5750.github.io/categories/work/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+    <lastmod>2019-02-22</lastmod>
+  </url>  <url>
+    <loc>https://T5750.github.io/2018/02/13/blogUpdates/</loc>
+    <lastmod>2019-02-22</lastmod>
+  </url>  <url>
     <loc>https://T5750.github.io/2018/03/09/blogPhotos/</loc>
-    <lastmod>2019-02-21T05:05:57.646Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo GitHub 简明版博客相册</title>
-        <pubTime>2018-03-09T01:00:49.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="Work" url="https://T5750.github.io/categories/work/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+    <lastmod>2019-02-22</lastmod>
+  </url>  <url>
     <loc>https://T5750.github.io/2018/02/23/blogOptimize/</loc>
-    <lastmod>2019-02-21T05:05:57.640Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo GitHub 简明版博客优化</title>
-        <pubTime>2018-02-23T02:35:28.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Git</tag>
-         
-         
-           
-             
-              <breadCrumb title="Work" url="https://T5750.github.io/categories/work/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <lastmod>2019-02-22</lastmod>
+  </url>
 </urlset>
