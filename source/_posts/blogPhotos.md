@@ -8,7 +8,7 @@ tags: [Hexo]
 ---
 ## 1. 环境配置
 - 基于 [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
-- 图片来自 [外链工厂](http://www.wailian.work/)
+- 图片来自 [外链工厂](https://www.wailian.work/)
 
 ## 2. 外链工厂
 
@@ -40,7 +40,7 @@ menu:
 ```
 
 ### 3.3 配置`ins.json`
-参照修改`date`, `link`, `text`等（`link`从上传[外链工厂](http://www.wailian.work/)的图片中截取）
+参照修改`date`, `link`, `text`等（`link`从上传[外链工厂](https://www.wailian.work/)的图片中截取）
 ```
 {
 	"list": [{
@@ -60,7 +60,7 @@ menu:
 ### 3.4 最终效果
 - [相册](/photos/index.html)
 
-![photos](http://www.wailian.work/images/2018/03/09/photos-min.png)
+![photos](https://www.wailian.work/images/2018/03/09/photos-min.png)
 
 ## 4. References
 - [BlogBackup](https://github.com/litten/BlogBackup)
