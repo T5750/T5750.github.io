@@ -43,6 +43,10 @@ themes/yilia/layout/post.ejs
 themes/yilia/layout/tag.ejs
 themes/yilia/package.json
 themes/yilia/source-src/
-themes/yilia/source/
+themes/yilia/source/fonts/
+themes/yilia/source/img/
+themes/yilia/source/main.0cf68a.css
+themes/yilia/source/mobile.992cbe.js
+themes/yilia/source/slider.e37972.js
 themes/yilia/webpack.config.js
 package-lock.json

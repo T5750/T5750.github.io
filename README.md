@@ -13,6 +13,7 @@ Welcome to my blog [https://T5750.github.io](https://T5750.github.io)
     - `gitment_oauth`: `client_id` and `client_secret`
 - `layout/_partial/footer.ejs`
 - `layout/_partial/article.ejs`
+- `source/main.0cf68a.js`
 
 ## Hexo Deploy
 `.deploy_git/`
