@@ -19,7 +19,7 @@ toc: true
 1. 代码管理-代码获取-复制代码到`hexo/themes/yilia/_config.yml`中的`baidu_analytics`
 
 ### 2.2 Google Analytics（分析）
-1. 注册 [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
+1. 注册 [Google Analytics（分析）](https://analytics.google.com)
 1. 添加跟踪代码-复制代码到`hexo/themes/yilia/_config.yml`中的`google_analytics`
 
 ## 3. 评论

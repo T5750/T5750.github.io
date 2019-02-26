@@ -44,7 +44,7 @@ tags: [Hexo]
     - 注册域名 [evaneo.top](http://evaneo.top)
     - 添加腾讯空间 [404公益页面](/404.html)
 - 2018-03-02
-    - [Google Analytics（分析）](http://www.google.cn/intl/zh-CN_ALL/analytics/)
+    - [Google Analytics（分析）](https://analytics.google.com)
     - Bing Sitemap [提交网址到必应](https://www.bing.com/toolbox/submit-site-url)
     - 360 Sitemap [提交您的网站](http://info.so.com/site_submit.html)
     - Sogou Sitemap [网站收录](https://fankui.sogou.com/index.php/web/web/index)
