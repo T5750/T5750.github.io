@@ -1,6 +1,6 @@
 ---
 title: GitHub Gitee 优质项目汇总
-subtitle: gitHubRepositories
+subtitle: gitHubRepo
 categories:
 - Work
 tags: [Git]
