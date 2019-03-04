@@ -156,9 +156,8 @@ toc: true
 ## References
 A ~ C | D ~ G | H ~ L | M ~ P | Q ~ S | T ~ Z
 ----|----|----|----|----|----
-[ai](https://gitee.com/xshuai/ai) | [Guns Github](https://github.com/stylefeng/Guns) | [iBase4J-Common](https://github.com/iBase4J/iBase4J-Common) |  | [renren-fast](https://gitee.com/babaio/renren-fast) | [xxpay-master](https://github.com/jmdhappy/xxpay-master)
-[any-chat](https://github.com/ChinaSilence/any-chat) |  | [iBase4J-SpringBoot](https://github.com/iBase4J/iBase4J-SpringBoot) |  | [renren-fastplus](https://gitee.com/babaio/renren-fastplus) | [x-ai](https://gitee.com/xshuai/x-ai)
+[ai](https://gitee.com/xshuai/ai) | [Guns](https://github.com/stylefeng/Guns) | [iBase4J-Common](https://github.com/iBase4J/iBase4J-Common) | [mybatis-generator-gui](https://github.com/astarring/mybatis-generator-gui) | [renren-fast](https://gitee.com/babaio/renren-fast) | [xxpay-master](https://github.com/jmdhappy/xxpay-master)
+[any-chat](https://github.com/ChinaSilence/any-chat) |  | [iBase4J-SpringBoot](https://github.com/iBase4J/iBase4J-SpringBoot) | [MyBatis-Spring-Boot](https://github.com/abel533/MyBatis-Spring-Boot) | [renren-fastplus](https://gitee.com/babaio/renren-fastplus) | [x-ai](https://gitee.com/xshuai/x-ai)
 [any-video](https://github.com/ChinaSilence/any-video) |  | [Javaee-tutorial](https://github.com/C0de8ug/Javaee-tutorial) |  | [renren-security-boot](https://github.com/renrenio/renren-security-boot) |
 [bootdo](https://github.com/lcg0124/bootdo) |  | [JavaQuarkBBS](https://github.com/ChinaLHR/JavaQuarkBBS) |  | [Smart](https://github.com/a466350665/smart) |
-|  |  | [mybatis-generator-gui](https://github.com/astarring/mybatis-generator-gui) |  | [SpringMVC-Mybatis-Shiro-redis-0.2](https://github.com/baichengzhou/SpringMVC-Mybatis-Shiro-redis-0.2) |
-|  |  | [MyBatis-Spring-Boot](https://github.com/abel533/MyBatis-Spring-Boot) |  |  |
+|  |  |  | [SpringMVC-Mybatis-Shiro-redis-0.2](https://github.com/baichengzhou/SpringMVC-Mybatis-Shiro-redis-0.2) | 
