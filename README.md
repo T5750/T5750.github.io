@@ -17,6 +17,8 @@ Welcome to my blog [https://T5750.github.io](https://T5750.github.io)
 - `source/main.0cf68a.js`
 - `layout/_partial/post/share.ejs`
     - `//pan.baidu.com/share/qrcode?url=`: original
+    - https://qrcode.online/img/?type=url&size=6&data=https://t5750.github.io
+    - https://qrcode.jp/qr?q=https://T5750.github.io
     - https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://t5750.github.io
     - http://qr.liantu.com/api.php?text=https://t5750.github.io
     - http://api.k780.com:88/?app=qr.get&data=https://t5750.github.io&level=L&size=6
