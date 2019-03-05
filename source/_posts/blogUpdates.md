@@ -71,3 +71,8 @@ tags: [Hexo]
 - 2019-02-21
     - 停用域名 evaneo.top
 	- 启用 [T5750.github.io](https://T5750.github.io)
+
+### v0.2.8
+- 2019-03-05
+    - 停用 [Disqus](https://disqus.com/profile/login/)
+    - 更新分享二维码API
