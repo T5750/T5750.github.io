@@ -9,8 +9,6 @@ public/
 *.iml
 .idea*.zip
 themes/landscape/
-themes/yilia/.*
-themes/yilia/README.md
 themes/yilia/languages/
 themes/yilia/layout/_partial/after-footer.ejs
 themes/yilia/layout/_partial/archive-post.ejs
@@ -19,12 +17,5 @@ themes/yilia/layout/_partial/aside.ejs
 themes/yilia/layout/_partial/[bcghlmstv]*.ejs
 themes/yilia/layout/_partial/post/[cdgntw]*.ejs
 themes/yilia/layout/[acilpt]*.ejs
-themes/yilia/package.json
-themes/yilia/source-src/
-themes/yilia/source/fonts/
-themes/yilia/source/img/
-themes/yilia/source/main.0cf68a.css
-themes/yilia/source/mobile.992cbe.js
-themes/yilia/source/slider.e37972.js
-themes/yilia/webpack.config.js
+themes/yilia/[.rpsw]*
 package-lock.json
