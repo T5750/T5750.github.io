@@ -13,7 +13,9 @@ Welcome to my blog [https://T5750.github.io](https://T5750.github.io)
     - `google_analytics`
     - `gitment_oauth`: `client_id` and `client_secret`
 - `layout/_partial/footer.ejs`
+    - Copyright, busuanzi
 - `layout/_partial/article.ejs`
+    - LiveRe, CommentHub, Gitalk, Vssue
 - `source/main.0cf68a.js`
 - `layout/_partial/post/share.ejs`
     - `//pan.baidu.com/share/qrcode?url=`: original
