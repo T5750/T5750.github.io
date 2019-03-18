@@ -32,7 +32,7 @@
 <meta property="og:image" content="https://www.wailian.work/images/2018/06/29/JavaCompiler17-min.png">
 <meta property="og:image" content="https://www.wailian.work/images/2018/06/29/Markdown-min.png">
 <meta property="og:image" content="https://www.wailian.work/images/2018/06/29/ProjectStructure-min.png">
-<meta property="og:updated_time" content="2019-03-05T02:12:18.054Z">
+<meta property="og:updated_time" content="2019-03-13T01:38:07.139Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="IntelliJ IDEA 常用设置与插件汇总">
 <meta name="twitter:description" content="1. Summary 这篇文章，通过配置 IDEA 的设置与插件，让我们的工具更加得心应手。 从 IDEA 14 逐渐到 IDEA 2017，记录常用的设置与插件。版本更新时，设置通过导出导入进行重用，插件需重装。 注：不同版本，Settings 菜单有所不同，用关键字进行搜索。以下目录结构参照 IDEA 2017。">
@@ -524,6 +524,23 @@ var _hmt = _hmt || [];
 </script>
 <div id="commenthub_thread" style="margin: 0;padding: 0;border: 0;font: inherit;font-size: 100%;vertical-align: baseline;"></div>
 <!-- CommentHub end -->
+<!-- Gitalk start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script type="text/javascript">
+  var gitalk = new Gitalk({
+    clientID: '2022f897e62ad3542e13',
+    clientSecret: 'a2930797a40bc321100daba66893ae65104e7d84',
+    repo: 'T5750.github.io',
+    owner: 'T5750',
+    admin: ['T5750'],
+    id: '/2018/06/29/ideaSettings/',      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+  gitalk.render('gitalk-container')
+</script>
+<!-- Gitalk end -->
 
 
           </div>
@@ -631,11 +648,11 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">Git</a>
+                <a href="javascript:void(0)" class="js-tag color4">IDE</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">IDE</a>
+                <a href="javascript:void(0)" class="js-tag color4">Git</a>
               </li>
              
               <li class="article-tag-list-item">

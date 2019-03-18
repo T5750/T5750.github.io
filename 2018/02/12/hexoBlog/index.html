@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="兰染的博客">
 <meta property="og:description" content="1. 环境配置Node.js(必须) 一路默认安装即可安装Git(必须) 一路默认安装即可Github账号(必须)">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-03-05T02:12:18.049Z">
+<meta property="og:updated_time" content="2019-03-13T01:38:07.124Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo GitHub 简明版博客搭建">
 <meta name="twitter:description" content="1. 环境配置Node.js(必须) 一路默认安装即可安装Git(必须) 一路默认安装即可Github账号(必须)">
@@ -487,6 +487,23 @@ var _hmt = _hmt || [];
 </script>
 <div id="commenthub_thread" style="margin: 0;padding: 0;border: 0;font: inherit;font-size: 100%;vertical-align: baseline;"></div>
 <!-- CommentHub end -->
+<!-- Gitalk start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script type="text/javascript">
+  var gitalk = new Gitalk({
+    clientID: '2022f897e62ad3542e13',
+    clientSecret: 'a2930797a40bc321100daba66893ae65104e7d84',
+    repo: 'T5750.github.io',
+    owner: 'T5750',
+    admin: ['T5750'],
+    id: '/2018/02/12/hexoBlog/',      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+  gitalk.render('gitalk-container')
+</script>
+<!-- Gitalk end -->
 
 
           </div>
@@ -594,11 +611,11 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">Git</a>
+                <a href="javascript:void(0)" class="js-tag color4">IDE</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">IDE</a>
+                <a href="javascript:void(0)" class="js-tag color4">Git</a>
               </li>
              
               <li class="article-tag-list-item">
