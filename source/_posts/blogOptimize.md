@@ -70,9 +70,8 @@ disqus_shortname: evaneo
 ```
 
 ### 3.5 Gitalk
-1. `npm i --save gitalk`
 1. [GitHub Application](https://github.com/settings/applications/new), Authorization callback URL: `https://t5750.github.io/`
-1. 使用
+1. `npm i --save gitalk`
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
