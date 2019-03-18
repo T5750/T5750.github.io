@@ -177,6 +177,7 @@
 </div>
 -->
 <!-- CommentHub start -->
+<!--
 <script type="text/javascript">
 	var commenthub_id = 9927080;
 	var commenthub_website = '<%-config.url_github%>';//https://commenthub.github.io
@@ -192,5 +193,25 @@
 	}());
 </script>
 <div id="commenthub_thread" style="margin: 0;padding: 0;border: 0;font: inherit;font-size: 100%;vertical-align: baseline;"></div>
+-->
 <!-- CommentHub end -->
+<!-- Gitalk start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script type="text/javascript">
+  var gitalk_website = '<%-config.url_github%>';//https://t5750.github.io/
+  var gitalk_identifier = gitalk_website+'<%-url_for(post.path)%>';//https://t5750.github.io/comments/index.html
+  var gitalk = new Gitalk({
+    clientID: '2022f897e62ad3542e13',
+    clientSecret: 'a2930797a40bc321100daba66893ae65104e7d84',
+    repo: '<%-theme.gitment_repo%>',
+    owner: 'T5750',
+    admin: ['T5750'],
+    id: gitalk_identifier,      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+  gitalk.render('gitalk-container')
+</script>
+<!-- Gitalk end -->
 <% } %>

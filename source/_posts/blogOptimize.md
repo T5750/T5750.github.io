@@ -69,6 +69,28 @@ disqus: true
 disqus_shortname: evaneo
 ```
 
+### 3.5 Gitalk
+1. `npm i --save gitalk`
+1. [GitHub Application](https://github.com/settings/applications/new), Authorization callback URL: `https://t5750.github.io/`
+1. 使用
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script type="text/javascript">
+  var gitalk = new Gitalk({
+    clientID: 'GitHub Application Client ID',
+    clientSecret: 'GitHub Application Client Secret',
+    repo: 'GitHub repo',
+    owner: 'GitHub repo owner',
+    admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
+    id: location.pathname,      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+  gitalk.render('gitalk-container')
+</script>
+```
+
 ## 4. RSS
 ```
 npm install hexo-generator-feed
@@ -177,3 +199,4 @@ www     CNAME  国内  gitcafe.io.
 - [解决 Github Pages 禁止百度爬虫的方法2--从gitcafe迁移到coding.net](https://bblove.me/2016/03/06/migrate-pages-from-gitcafe-to-coding/)
 - [CommentHub Example](https://commenthub.github.io/)
 - [多合一收款二维码原理及实现(源码)](https://mkblog.cn/922/)
+- [Gitalk](https://github.com/gitalk/gitalk)
