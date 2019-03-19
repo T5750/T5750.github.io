@@ -16,6 +16,7 @@ Welcome to my blog [https://T5750.github.io](https://T5750.github.io)
     - Copyright, busuanzi
 - `layout/_partial/article.ejs`
     - LiveRe, CommentHub, Gitalk, Vssue
+    - CC BY-NC-SA 3.0
 - `source/main.0cf68a.js`
 - `layout/_partial/post/share.ejs`
     - `//pan.baidu.com/share/qrcode?url=`: original
@@ -36,3 +37,4 @@ Welcome to my blog [https://T5750.github.io](https://T5750.github.io)
 - `index.ejs`
 - `ins.js`
 - `ins.json`
+- `ins.css`: `::-webkit-scrollbar`
