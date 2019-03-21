@@ -6,35 +6,39 @@ categories:
 date: 2018-02-13 09:00:49
 tags: [Hexo]
 ---
-## Git branch master
-### v0.1.0
-- 2018-02-11
-    - [Hexo](https://hexo.io/zh-cn) Theme [Yilia](https://github.com/litten/hexo-theme-yilia)
+## Git branch hexo
+### v0.2.9
 
 <!-- more -->
 
-- 2018-02-12
-    - [Gitment](https://github.com/imsun/gitment) 评论系统
-    - [不蒜子](http://busuanzi.ibruce.info/) 网页计数器
+- 2019-03-21
+    - [CommentHub](https://commenthub.github.io/) 更新为 [Gitalk](https://github.com/gitalk/gitalk)
 
-### v0.1.1
-- 2018-02-13
-    - [百度统计](https://tongji.baidu.com/web/welcome/login)
-    - [Gitment](https://github.com/imsun/gitment) 更新为 [来必力](https://livere.com/login_form)
-    - 版权声明
-    - [rss](/atom.xml)
+### v0.2.8
+- 2019-03-05
+    - 停用 [Disqus](https://disqus.com/profile/login/)
+    - 更新分享二维码API
 
-## Git branch hexo
-### v0.2.0
-- 2018-02-22
-    - git branch hexo
+### v0.2.7
+- 2019-02-21
+    - 停用域名 evaneo.top
+	- 启用 [T5750.github.io](https://T5750.github.io)
 
-### v0.2.1
-- 2018-02-23
-    - Google Sitemap [Google站长工具](https://www.google.com/webmasters/tools/home?hl=zh-CN)
-    - Baidu Sitemap [链接提交](https://ziyuan.baidu.com/linksubmit/url)
-- 2018-02-25
-    - [留言板](/comments/index.html)
+### v0.2.6
+- 2018-10-11
+    - [不蒜子](http://busuanzi.ibruce.info/) 域名更新
+
+### v0.2.5
+- 2018-06-28
+    - [Disqus](https://disqus.com/profile/login/)
+
+### v0.2.4
+- 2018-06-27
+    - [来必力](https://livere.com/login_form) 更新为 [CommentHub](https://commenthub.github.io/)
+
+### v0.2.3
+- 2018-03-08
+    - [相册](/photos/index.html)
 
 ### v0.2.2
 - 2018-02-26
@@ -51,28 +55,28 @@ tags: [Hexo]
 - 2018-03-06
     - 域名生效
 
-### v0.2.3
-- 2018-03-08
-    - [相册](/photos/index.html)
+### v0.2.1
+- 2018-02-23
+    - Google Sitemap [Google站长工具](https://www.google.com/webmasters/tools/home?hl=zh-CN)
+    - Baidu Sitemap [链接提交](https://ziyuan.baidu.com/linksubmit/url)
+- 2018-02-25
+    - [留言板](/comments/index.html)
 
-### v0.2.4
-- 2018-06-27
-    - [来必力](https://livere.com/login_form) 更新为 [CommentHub](https://commenthub.github.io/)
+### v0.2.0
+- 2018-02-22
+    - git branch hexo
 
-### v0.2.5
-- 2018-06-28
-    - [Disqus](https://disqus.com/profile/login/)
+## Git branch master
+### v0.1.1
+- 2018-02-13
+    - [百度统计](https://tongji.baidu.com/web/welcome/login)
+    - [Gitment](https://github.com/imsun/gitment) 更新为 [来必力](https://livere.com/login_form)
+    - 版权声明
+    - [rss](/atom.xml)
 
-### v0.2.6
-- 2018-10-11
-    - [不蒜子](http://busuanzi.ibruce.info/) 域名更新
-
-### v0.2.7
-- 2019-02-21
-    - 停用域名 evaneo.top
-	- 启用 [T5750.github.io](https://T5750.github.io)
-
-### v0.2.8
-- 2019-03-05
-    - 停用 [Disqus](https://disqus.com/profile/login/)
-    - 更新分享二维码API
+### v0.1.0
+- 2018-02-11
+    - [Hexo](https://hexo.io/zh-cn) Theme [Yilia](https://github.com/litten/hexo-theme-yilia)
+- 2018-02-12
+    - [Gitment](https://github.com/imsun/gitment) 评论系统
+    - [不蒜子](http://busuanzi.ibruce.info/) 网页计数器
