@@ -6,14 +6,15 @@ categories:
 date: 2018-03-09 09:00:49
 tags: [Hexo]
 ---
+关键词：相册；配置；代码
+
+<!-- more -->
+
 ## 1. 环境配置
 - 基于 [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
 - 图片来自 [外链工厂](https://www.wailian.work/)
 
 ## 2. 外链工厂
-
-<!-- more -->
-
 注册-登录-上传图片
 
 ## 3. 配置相册

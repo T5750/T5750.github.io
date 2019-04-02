@@ -7,12 +7,13 @@ tags: [Git]
 date: 2019-03-02 17:35:34
 toc: true
 ---
-学习参考，感谢开源！
-
-## 1.Javaee-tutorial
+关键词：Java；Spring；Spring Boot；MyBatis；Redis
 
 <!-- more -->
 
+学习参考，感谢开源！
+
+## 1.Javaee-tutorial
 ![Javaee-tutorial-admin-min](https://www.wailian.work/images/2019/02/28/Javaee-tutorial-admin-min.png)
 
 [Javaee-tutorial](https://github.com/T5750/github-repositories/tree/master/Javaee-tutorial) 是个简单的教务系统网站，并且结合了图书订购功能。
@@ -58,7 +59,7 @@ toc: true
 
 [any-video](https://github.com/T5750/github-repositories/tree/master/any-video) 是Spring Boot 结合网络爬虫开发的完整视频网站。
 - [Spring Boot 1.5.3.RELEASE](https://projects.spring.io/spring-boot)
-- [Mybatis 3.4.2](http://www.mybatis.org/mybatis-3/)
+- [MyBatis 3.4.2](http://www.mybatis.org/mybatis-3/)
 - [HikariCP 2.6.0](https://github.com/brettwooldridge/HikariCP)
 - [Spring Serucity 4.2.2](https://projects.spring.io/spring-security/)
 - [Jsoup 1.9.2](https://jsoup.org/download)

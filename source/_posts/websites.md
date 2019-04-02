@@ -8,13 +8,14 @@ tags:
 date: 2018-02-12 12:57:34
 toc: true
 ---
+关键词：教程；Java；JavaScript；HTML；CSS
+
+<!-- more -->
+
 ## 1. Tutorials
 - <a href="http://www.yiibai.com/" target="_blank">易百教程</a> - 专注于IT教程和实例
 - <a href="http://www.runoob.com/" target="_blank">菜鸟教程</a> - 提供了HTML，CSS，Javascript，Python，Java，Ruby，C，PHP , MySQL等基础知识与在线实例
 - [Programming Tutorials and Source Code Examples](http://www.java2s.com/) - Java, Mobile, C# /C++ /C, Database
-
-<!-- more -->
-
 - [Happy Codings](http://happycodings.com/) - Programming Code Examples with C++ C C# Java Php Asp Visual Basic
 - [OverAPI.com](http://overapi.com/) - Collecting all the cheat sheets
 - [基础教程网](http://teliute.org/) - 提供电脑基础入门学习的公益站点，可以在线浏览也可以下载到本机阅读

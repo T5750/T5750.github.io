@@ -7,12 +7,14 @@ tags: [Hexo, Git]
 date: 2018-02-12 09:19:28
 toc: true
 ---
+关键词：配置；Hexo；Theme；Yilia
+
+<!-- more -->
+
 ## 1. 环境配置
 [Node.js](https://nodejs.org/en/)(必须) 一路默认安装即可
 安装[Git](http://git-scm.com/download/)(必须) 一路默认安装即可
 [Github](http://github.com/)账号(必须)
-
-<!-- more -->
 
 ### 1.1 Ubuntu
 ```

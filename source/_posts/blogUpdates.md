@@ -6,11 +6,12 @@ categories:
 date: 2018-02-13 09:00:49
 tags: [Hexo]
 ---
-## Git branch hexo
-### v0.2.9
+关键词：更新；Hexo；Sitemap
 
 <!-- more -->
 
+## Git branch hexo
+### v0.2.9
 - 2019-03-21
     - [CommentHub](https://commenthub.github.io/) 更新为 [Gitalk](https://github.com/gitalk/gitalk)
 

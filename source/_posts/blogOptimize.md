@@ -7,13 +7,14 @@ tags: [Hexo, Git]
 date: 2018-02-23 10:35:28
 toc: true
 ---
+关键词：配置；统计；评论；Sitemap
+
+<!-- more -->
+
 ## 1. 环境配置
 基于 [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
 
 ## 2. 统计分析
-
-<!-- more -->
-
 ### 2.1 百度统计
 1. 注册并登录 [百度统计](http://tongji.baidu.com/)
 1. 代码管理-代码获取-复制代码到`hexo/themes/yilia/_config.yml`中的`baidu_analytics`
