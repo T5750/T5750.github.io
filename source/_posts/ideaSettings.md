@@ -7,13 +7,13 @@ tags: [IDE]
 date: 2018-06-29 10:35:34
 toc: true
 ---
-关键词：IntelliJ IDEA；设置；插件
+关键词：IntelliJ IDEA；设置；插件；Java
 
 <!-- more -->
 
 ## 1. Summary
 - 这篇文章，通过配置 IDEA 的设置与插件，让我们的工具更加得心应手。
-- 从 IDEA 14 逐渐到 IDEA 2017，记录常用的设置与插件。版本更新时，设置通过导出导入进行重用，插件需重装。
+- 从 IDEA 14 逐渐到 IDEA 2019，记录常用的设置与插件。版本更新时，设置通过导出导入进行重用，插件需重装。
 > 注：不同版本，Settings 菜单有所不同，用关键字进行搜索。以下目录结构参照 IDEA 2017。
 
 ## 2. Runtime Environment
@@ -21,6 +21,32 @@ toc: true
 - IntelliJ IDEA 15.0.2
 - IntelliJ IDEA 2016.3.4
 - IntelliJ IDEA 2017.3.3
+- IntelliJ IDEA 2018.3
+- IntelliJ IDEA 2019.3
+
+### Windows
+IDE's Java runtime: `IDEA_JDK_64` -> `%JAVA_HOME%`
+
+`<product>64.exe` uses this JDK search sequence:
+1. `IDEA_JDK_64` / `PHPSTORM_JDK_64` / `WEBIDE_JDK_64` / `PYCHARM_JDK_64` / `RUBYMINE_JDK_64` / `CL_JDK_64` / `DATAGRIP_JDK_64` / `GOLAND_JDK_64` environment variable
+2. `idea.config.path\<product>64.jdk` file
+3. `..\jre64` directory
+4. system Registry
+5. `JDK_HOME` environment variable
+6. `JAVA_HOME` environment variable
+
+Environment variable **must point to the JDK installation home directory**, for example: `c:\Program Files\Java\jdk1.8.0_112`
+
+#### idea.config.path
+- Windows Vista, 7, 8, 10: `<SYSTEM DRIVE>\Users\<USER ACCOUNT NAME>\.<PRODUCT><VERSION>`
+- IntelliJ IDEA 14 Ultimate Edition: `C:\Users\Administrator\.IntelliJIdea14\`
+
+#### Sub-directories
+Under this directory you'll find the following sub-directories
+- `config`: configuration (`idea.config.path`)
+- `config\plugins`: plugins (`idea.plugins.path`)
+- `system`: caches, local history, etc (`idea.system.path`)
+- `system\log`: logs and thread dumps (`idea.log.path`)
 
 ## 3. Plugins
 ### General
@@ -33,6 +59,9 @@ toc: true
 ### Optional
 - Postfix Completion
 - Lombok Plugin
+- ZooKeeper
+- BashSupport
+- Lua
 
 ## 4. Settings
 ### Appearance & Behavior
@@ -53,7 +82,7 @@ toc: true
 
 ![Font](https://www.wailian.work/images/2018/06/29/Font-min.png)
 
-样式，Background: C7EDCC
+样式，Background: `C7EDCC`
 
 ![General](https://www.wailian.work/images/2018/06/29/General-min.png)
 
@@ -97,3 +126,7 @@ Markdown默认布局
 项目SDK
 
 ![ProjectStructure](https://www.wailian.work/images/2018/06/29/ProjectStructure-min.png)
+
+## 6. References
+- [Selecting the JDK version the IDE will run under](https://intellij-support.jetbrains.com/hc/en-us/articles/206544879-Selecting-the-JDK-version-the-IDE-will-run-under)
+- [Directories used by the IDE to store settings, caches, plugins and logs](https://intellij-support.jetbrains.com/hc/en-us/articles/206544519)
