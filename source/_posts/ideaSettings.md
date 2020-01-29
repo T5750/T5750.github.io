@@ -21,8 +21,10 @@ toc: true
 - IntelliJ IDEA 15.0.2
 - IntelliJ IDEA 2016.3.4
 - IntelliJ IDEA 2017.3.3
-- IntelliJ IDEA 2018.3
-- IntelliJ IDEA 2019.3
+- [IntelliJ IDEA 2018.3](https://www.jetbrains.com/idea/download/other.html)
+- [IntelliJ IDEA 2019.3](https://www.jetbrains.com/idea/download/other.html)
+- [Java 7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+- [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ### Windows
 IDE's Java runtime: `IDEA_JDK_64` -> `%JAVA_HOME%`

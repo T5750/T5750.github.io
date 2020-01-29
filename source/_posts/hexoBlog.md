@@ -34,14 +34,18 @@ source ~/.bashrc //使修改立即生效
 右键打开`git bash`安装hexo
 ```
 npm install -g hexo-cli
+hexo version
 ```
+
 ### 2.1 init
 ```
 hexo init
 npm install
 ```
+
 ### 2.2 server
 ```
+// npm install hexo-server --save
 hexo s //hexo server
 ```
 浏览器中输入 http://localhost:4000/
@@ -100,7 +104,6 @@ git clone git@github.com:iissnan/hexo-theme-next.git
 打开站点总配置`_config.yml`(即`hexo/_config.yml`)，找到theme换成next即可(`theme: next`)，记得每一个冒号后面要有一个空格
 
 ### 4.2 Hexo Theme Yilia
-
 #### 4.2.1 安装
 ```
 git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
@@ -144,3 +147,4 @@ git pull
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
 - [Hexo Yilia主题增加分享以及访问统计](https://www.jianshu.com/p/cb0a105d7a81)
+- [Server | Hexo](https://hexo.io/docs/server.html)
