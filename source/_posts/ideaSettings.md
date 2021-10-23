@@ -56,7 +56,7 @@ Under this directory you'll find the following sub-directories
 - Alibaba Java Coding Guidelines
 - JRebel for IntelliJ
 
-![EclipseCodeFormatter](https://www.wailian.work/images/2018/06/29/EclipseCodeFormatter-min.png)
+![EclipseCodeFormatter](https://s0.wailian.download/2018/06/29/EclipseCodeFormatter-min.png)
 
 ### Optional
 - Postfix Completion
@@ -69,65 +69,65 @@ Under this directory you'll find the following sub-directories
 ### Appearance & Behavior
 取消自动更新
 
-![Updates](https://www.wailian.work/images/2018/06/29/Updates-min.png)
+![Updates](https://s0.wailian.download/2018/06/29/Updates-min.png)
 
 ### Editor
 显示行号
 
-![Appearance](https://www.wailian.work/images/2018/06/29/Appearance-min.png)
+![Appearance](https://s0.wailian.download/2018/06/29/Appearance-min.png)
 
 补全代码不区分大小写
 
-![CodeCompletion](https://www.wailian.work/images/2018/06/29/CodeCompletion-min.png)
+![CodeCompletion](https://s0.wailian.download/2018/06/29/CodeCompletion-min.png)
 
 字体
 
-![Font](https://www.wailian.work/images/2018/06/29/Font-min.png)
+![Font](https://s0.wailian.download/2018/06/29/Font-min.png)
 
 样式，Background: `C7EDCC`
 
-![General](https://www.wailian.work/images/2018/06/29/General-min.png)
+![General](https://s0.wailian.download/2018/06/29/General-min.png)
 
 控制台字体
 
-![ConsoleFont](https://www.wailian.work/images/2018/06/29/ConsoleFont-min.png)
+![ConsoleFont](https://s0.wailian.download/2018/06/29/ConsoleFont-min.png)
 
 tab设置
 
-![CodeStyleJava](https://www.wailian.work/images/2018/06/29/CodeStyleJava-min.png)
+![CodeStyleJava](https://s0.wailian.download/2018/06/29/CodeStyleJava-min.png)
 
-![CodeStyleGeneral](https://www.wailian.work/images/2018/06/29/CodeStyleGeneral-min.png)
+![CodeStyleGeneral](https://s0.wailian.download/2018/06/29/CodeStyleGeneral-min.png)
 
 代码检查
 
-![Inspections](https://www.wailian.work/images/2018/06/29/Inspections-min.png)
+![Inspections](https://s0.wailian.download/2018/06/29/Inspections-min.png)
 
 编码
 
-![FileEncodings](https://www.wailian.work/images/2018/06/29/FileEncodings-min.png)
+![FileEncodings](https://s0.wailian.download/2018/06/29/FileEncodings-min.png)
 
 注释模版
 
-![FileandCodeTemplates](https://www.wailian.work/images/2018/06/29/FileandCodeTemplates-min.png)
+![FileandCodeTemplates](https://s0.wailian.download/2018/06/29/FileandCodeTemplates-min.png)
 
 重新格式化代码
 
-![ReformatCode](https://www.wailian.work/images/2018/06/29/ReformatCode-min.png)
+![ReformatCode](https://s0.wailian.download/2018/06/29/ReformatCode-min.png)
 
 ### Build, Execution, Deployment
 Java编译器，```Error:java: Compilation failed: internal java compiler error```
 
-![JavaCompiler](https://www.wailian.work/images/2018/06/29/JavaCompiler17-min.png)
+![JavaCompiler](https://s0.wailian.download/2018/06/29/JavaCompiler17-min.png)
 
 ### Languages & Frameworks
 Markdown默认布局
 
-![Markdown](https://www.wailian.work/images/2018/06/29/Markdown-min.png)
+![Markdown](https://s0.wailian.download/2018/06/29/Markdown-min.png)
 
 ## 5. Project Structure
 项目SDK
 
-![ProjectStructure](https://www.wailian.work/images/2018/06/29/ProjectStructure-min.png)
+![ProjectStructure](https://s0.wailian.download/2018/06/29/ProjectStructure-min.png)
 
 ## 6. References
 - [Selecting the JDK version the IDE will run under](https://intellij-support.jetbrains.com/hc/en-us/articles/206544879-Selecting-the-JDK-version-the-IDE-will-run-under)

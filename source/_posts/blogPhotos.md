@@ -61,7 +61,7 @@ menu:
 ### 3.4 最终效果
 - [相册](/photos/index.html)
 
-![photos](https://www.wailian.work/images/2018/03/09/photos-min.png)
+![photos](https://s0.wailian.download/2018/03/09/photos-min.png)
 
 ## 4. References
 - [BlogBackup](https://github.com/litten/BlogBackup)

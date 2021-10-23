@@ -12,7 +12,7 @@ _**多图预警**_
 <!-- more -->
 
 ## 简介
-![homepage](https://www.wailian.work/images/2018/10/04/homepage-min.png)
+![homepage](https://s0.wailian.download/2018/10/04/homepage-min.png)
 
 ## 选人
 ### 培养
@@ -26,11 +26,11 @@ _**多图预警**_
 - 中后卫：防守，抢球
 - 门将
 
-![total-0](https://www.wailian.work/images/2018/10/04/total-0-min.png)
+![total-0](https://s0.wailian.download/2018/10/04/total-0-min.png)
 
-![total-1](https://www.wailian.work/images/2018/10/04/total-1-min.png)
+![total-1](https://s0.wailian.download/2018/10/04/total-1-min.png)
 
-![total-2](https://www.wailian.work/images/2018/10/04/total-2-min.png)
+![total-2](https://s0.wailian.download/2018/10/04/total-2-min.png)
 
 ### 租借
 1. **传奇**，**旗帜**，演奏家
@@ -40,7 +40,7 @@ _**多图预警**_
 >注：传奇，旗帜，大师，战士开档就可租借；小球队开档租借大师，战士
 
 ### 训练
-![train](https://www.wailian.work/images/2018/10/04/train-min.png)
+![train](https://s0.wailian.download/2018/10/04/train-min.png)
 
 >注：签约新人后，第一场上场，可获得球队角色
 
@@ -50,9 +50,9 @@ _**多图预警**_
 
 ## 常规
 ### 阵容
-![mainmenu](https://www.wailian.work/images/2018/10/05/mainmenu-min.png)
+![mainmenu](https://s0.wailian.download/2018/10/05/mainmenu-min.png)
 
-![team](https://www.wailian.work/images/2018/10/04/team-min.png)
+![team](https://s0.wailian.download/2018/10/04/team-min.png)
 
 ### 进攻
 - 下底传中，45°传中，角球冲刺。**头球！头球！！头球！！！**
@@ -66,13 +66,13 @@ _**多图预警**_
 
 ## 记录
 ### 2020-2021
-![season-2020-1](https://www.wailian.work/images/2018/10/04/season-2020-1-min.png)
+![season-2020-1](https://s0.wailian.download/2018/10/04/season-2020-1-min.png)
 
-![season-2020-2](https://www.wailian.work/images/2018/10/04/season-2020-2-min.png)
+![season-2020-2](https://s0.wailian.download/2018/10/04/season-2020-2-min.png)
 
-![season-2020-3](https://www.wailian.work/images/2018/10/04/season-2020-3-min.png)
+![season-2020-3](https://s0.wailian.download/2018/10/04/season-2020-3-min.png)
 
-![season-2020-4](https://www.wailian.work/images/2018/10/04/season-2020-4-min.png)
+![season-2020-4](https://s0.wailian.download/2018/10/04/season-2020-4-min.png)
 
 ## 总结
 - 头球，砸砸砸
