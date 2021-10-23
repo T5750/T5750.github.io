@@ -116,8 +116,8 @@
         var data = res.list[j].arr;
         var liTmpl = "";
         for (var i = 0, len = data.link.length; i < len; i++) {
-          var minSrc = 'https://www.wailian.work/images/' + data.link[i] + '.th.jpg';
-          var src = 'https://www.wailian.work/images/' + data.link[i];
+          var minSrc = 'https://s0.wailian.download/' + data.link[i] + '.th.jpg';
+          var src = 'https://s0.wailian.download/' + data.link[i];
           var type = data.type[i];
           var target = src + (type === 'video' ? '.mp4' : '.jpg');
           src += '.jpg';
