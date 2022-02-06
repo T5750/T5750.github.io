@@ -6,6 +6,10 @@ Welcome to my blog [https://T5750.github.io](https://T5750.github.io)
 - `scaffolds/post.md`
 - `source/*`
 
+## Hexo Theme Next
+`themes/next/`
+- `_config.yml`
+
 ## Hexo Theme Yilia
 `themes/yilia/`
 - `_config.yml`

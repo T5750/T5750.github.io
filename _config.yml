@@ -5,7 +5,7 @@
 # Site
 title: 兰染的博客
 subtitle: 自强不息 厚德载物
-description: 网名：兰染。热衷技术，热爱生活，常有好文章苦于无处珍藏，又有日常琐碎不堪记忆无处安放，遂筑博客一枚，以作日记之用。
+description: 热衷技术，热爱生活，常有好文章苦于无处珍藏，又有日常琐碎不堪记忆无处安放，遂筑博客一枚，以作日记之用。
 author: 兰染
 language: zh-CN
 timezone: "Asia/Shanghai"
@@ -98,9 +98,8 @@ pagination_dir: page
 #  - hexo-generator-sitemap
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-#theme: hexo-theme-next
-#theme: yilia
 theme: next
+#theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

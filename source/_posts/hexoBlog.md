@@ -92,38 +92,37 @@ ssh-keygen -t rsa -C "test@gmail.com"
 ```
 最后得到`id_rsa`和`id_rsa.pub`两个文件，把`id_rsa.pub`的内容粘贴到GitHub中即可
 
-## 4. Hexo Theme
-### 4.1 Hexo Theme Next
-#### 4.1.1 下载
+## 4 Hexo Theme Next
+### 4.1 下载
 GitHub clone到你的博客目录\themes目录下(`hexo/themes`下)
 ```
-git clone git@github.com:iissnan/hexo-theme-next.git
+git clone https://github.com/theme-next/hexo-theme-next themes/next
 ```
 
-#### 4.1.2 使用
+### 4.2 使用
 打开站点总配置`_config.yml`(即`hexo/_config.yml`)，找到theme换成next即可(`theme: next`)，记得每一个冒号后面要有一个空格
 
-### 4.2 Hexo Theme Yilia
-#### 4.2.1 安装
+## 5 Hexo Theme Yilia
+### 5.1 安装
 ```
 git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
 ```
 
-#### 4.2.2 配置
+### 5.2 配置
 修改hexo根目录下的 `_config.yml` ： `theme: yilia`
 
-#### 4.2.3 更新
+### 5.3 更新
 ```
 cd themes/yilia
 git pull
 ```
 
-#### 4.2.4 文章截断
+### 5.4 文章截断
 ```
 <!-- more -->
 ```
 
-#### 4.2.5 不蒜子访问量统计
+### 5.5 不蒜子访问量统计
 `hexo/themes/yilia/layout/_partial/footer.ejs`引入`busuanzi.js`
 ```
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -140,11 +139,11 @@ git pull
 <% } %>
 ```
 
-## 5. References
+## 6. References
 - [Hexo+Next搭建GitHub个人静态博客](http://www.cnblogs.com/cnfanhua/p/5167191.html)
 - [史上最详细的Hexo博客搭建图文教程](https://xuanwo.org/2015/03/26/hexo-intor/#%E4%BD%BF%E7%94%A8hexo)
 - [指令 | Hexo](https://hexo.io/zh-cn/docs/commands.html)
-- [hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
+- [hexo-theme-next](https://github.com/theme-next/hexo-theme-next)
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
 - [Hexo Yilia主题增加分享以及访问统计](https://www.jianshu.com/p/cb0a105d7a81)
 - [Server | Hexo](https://hexo.io/docs/server.html)
